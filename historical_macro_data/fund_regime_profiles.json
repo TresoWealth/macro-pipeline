@@ -1,0 +1,104 @@
+{
+  "F1_Growth_Focused": {
+    "Growth-Disinflation": {
+      "n_months": 6,
+      "annualized_return": 0.204,
+      "annualized_volatility": 0.0957,
+      "sharpe_ratio": 1.61,
+      "max_drawdown": -0.0064,
+      "hit_ratio": 0.5
+    },
+    "Growth-Inflation": {
+      "n_months": 130,
+      "annualized_return": 0.1556,
+      "annualized_volatility": 0.1105,
+      "sharpe_ratio": 0.96,
+      "max_drawdown": -0.154,
+      "hit_ratio": 0.669
+    },
+    "Stagnation-Disinflation": {
+      "n_months": 2,
+      "annualized_return": 0.1701,
+      "annualized_volatility": 0.0137,
+      "sharpe_ratio": 8.79,
+      "max_drawdown": 0.0,
+      "hit_ratio": 1.0
+    },
+    "Stagflation": {
+      "n_months": 102,
+      "annualized_return": -0.0601,
+      "annualized_volatility": 0.134,
+      "sharpe_ratio": -0.82,
+      "max_drawdown": -0.5059,
+      "hit_ratio": 0.441
+    }
+  },
+  "F2_Balanced": {
+    "Growth-Disinflation": {
+      "n_months": 6,
+      "annualized_return": 0.2695,
+      "annualized_volatility": 0.0598,
+      "sharpe_ratio": 3.67,
+      "max_drawdown": -0.0084,
+      "hit_ratio": 0.833
+    },
+    "Growth-Inflation": {
+      "n_months": 130,
+      "annualized_return": 0.1474,
+      "annualized_volatility": 0.0759,
+      "sharpe_ratio": 1.28,
+      "max_drawdown": -0.0456,
+      "hit_ratio": 0.654
+    },
+    "Stagnation-Disinflation": {
+      "n_months": 2,
+      "annualized_return": -0.0132,
+      "annualized_volatility": 0.0361,
+      "sharpe_ratio": -1.75,
+      "max_drawdown": -0.0115,
+      "hit_ratio": 0.5
+    },
+    "Stagflation": {
+      "n_months": 102,
+      "annualized_return": 0.0693,
+      "annualized_volatility": 0.0869,
+      "sharpe_ratio": 0.22,
+      "max_drawdown": -0.1117,
+      "hit_ratio": 0.618
+    }
+  },
+  "F3_Defensive": {
+    "Growth-Disinflation": {
+      "n_months": 6,
+      "annualized_return": 0.1871,
+      "annualized_volatility": 0.041,
+      "sharpe_ratio": 3.34,
+      "max_drawdown": -0.0017,
+      "hit_ratio": 0.833
+    },
+    "Growth-Inflation": {
+      "n_months": 130,
+      "annualized_return": 0.0752,
+      "annualized_volatility": 0.0565,
+      "sharpe_ratio": 0.45,
+      "max_drawdown": -0.0916,
+      "hit_ratio": 0.662
+    },
+    "Stagnation-Disinflation": {
+      "n_months": 2,
+      "annualized_return": 0.1385,
+      "annualized_volatility": 0.0551,
+      "sharpe_ratio": 1.6,
+      "max_drawdown": 0.0,
+      "hit_ratio": 0.5
+    },
+    "Stagflation": {
+      "n_months": 102,
+      "annualized_return": 0.181,
+      "annualized_volatility": 0.0514,
+      "sharpe_ratio": 2.55,
+      "max_drawdown": -0.0199,
+      "hit_ratio": 0.804
+    }
+  }
+}

@@ -1,0 +1,1904 @@
+[
+  {
+    "Date": "2000-01-31",
+    "Brent_USD": 27.08,
+    "WTI_USD": 27.65,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-02-29",
+    "Brent_USD": 29.01,
+    "WTI_USD": 30.57,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-03-31",
+    "Brent_USD": 23.98,
+    "WTI_USD": 26.86,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-04-30",
+    "Brent_USD": 23.79,
+    "WTI_USD": 25.71,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-05-31",
+    "Brent_USD": 29.64,
+    "WTI_USD": 29.03,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-06-30",
+    "Brent_USD": 31.58,
+    "WTI_USD": 32.44,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-07-31",
+    "Brent_USD": 25.3,
+    "WTI_USD": 27.5,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-08-31",
+    "Brent_USD": 35.08,
+    "WTI_USD": 33.09,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-09-30",
+    "Brent_USD": 28.42,
+    "WTI_USD": 30.87,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-10-31",
+    "Brent_USD": 30.15,
+    "WTI_USD": 32.7,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-11-30",
+    "Brent_USD": 32.53,
+    "WTI_USD": 33.61,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2000-12-31",
+    "Brent_USD": 22.58,
+    "WTI_USD": 26.72,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-01-31",
+    "Brent_USD": 26.59,
+    "WTI_USD": 28.62,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-02-28",
+    "Brent_USD": 25.16,
+    "WTI_USD": 27.35,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-03-31",
+    "Brent_USD": 23.5,
+    "WTI_USD": 26.37,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-04-30",
+    "Brent_USD": 27.21,
+    "WTI_USD": 28.48,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-05-31",
+    "Brent_USD": 28.55,
+    "WTI_USD": 28.39,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-06-30",
+    "Brent_USD": 26.21,
+    "WTI_USD": 26.37,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-07-31",
+    "Brent_USD": 24.35,
+    "WTI_USD": 26.7,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-08-31",
+    "Brent_USD": 26.8,
+    "WTI_USD": 26.65,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-09-30",
+    "Brent_USD": 21.87,
+    "WTI_USD": 23.44,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-10-31",
+    "Brent_USD": 19.63,
+    "WTI_USD": 21.2,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-11-30",
+    "Brent_USD": 18.92,
+    "WTI_USD": 19.46,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2001-12-31",
+    "Brent_USD": 19.35,
+    "WTI_USD": 19.96,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-01-31",
+    "Brent_USD": 19.07,
+    "WTI_USD": 19.71,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-02-28",
+    "Brent_USD": 20.73,
+    "WTI_USD": 21.78,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-03-31",
+    "Brent_USD": 25.34,
+    "WTI_USD": 26.21,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-04-30",
+    "Brent_USD": 26.98,
+    "WTI_USD": 27.32,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-05-31",
+    "Brent_USD": 23.87,
+    "WTI_USD": 25.37,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-06-30",
+    "Brent_USD": 25.33,
+    "WTI_USD": 26.79,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-07-31",
+    "Brent_USD": 26.28,
+    "WTI_USD": 27.02,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-08-31",
+    "Brent_USD": 27.56,
+    "WTI_USD": 28.97,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-09-30",
+    "Brent_USD": 29.11,
+    "WTI_USD": 30.59,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-10-31",
+    "Brent_USD": 25.51,
+    "WTI_USD": 27.18,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-11-30",
+    "Brent_USD": 25.74,
+    "WTI_USD": 26.87,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2002-12-31",
+    "Brent_USD": 30.12,
+    "WTI_USD": 31.21,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-01-31",
+    "Brent_USD": 31.57,
+    "WTI_USD": 33.51,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-02-28",
+    "Brent_USD": 34.0,
+    "WTI_USD": 36.76,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-03-31",
+    "Brent_USD": 28.05,
+    "WTI_USD": 31.14,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-04-30",
+    "Brent_USD": 23.6,
+    "WTI_USD": 26.09,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-05-31",
+    "Brent_USD": 26.58,
+    "WTI_USD": 29.56,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-06-30",
+    "Brent_USD": 28.88,
+    "WTI_USD": 30.15,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-07-31",
+    "Brent_USD": 28.68,
+    "WTI_USD": 30.56,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-08-31",
+    "Brent_USD": 30.38,
+    "WTI_USD": 31.76,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-09-30",
+    "Brent_USD": 28.09,
+    "WTI_USD": 29.19,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-10-31",
+    "Brent_USD": 27.88,
+    "WTI_USD": 29.24,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-11-30",
+    "Brent_USD": 28.95,
+    "WTI_USD": 30.33,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2003-12-31",
+    "Brent_USD": 30.3,
+    "WTI_USD": 32.51,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-01-31",
+    "Brent_USD": 29.53,
+    "WTI_USD": 33.16,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-02-29",
+    "Brent_USD": 32.94,
+    "WTI_USD": 36.08,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-03-31",
+    "Brent_USD": 32.29,
+    "WTI_USD": 35.75,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-04-30",
+    "Brent_USD": 35.23,
+    "WTI_USD": 37.31,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-05-31",
+    "Brent_USD": 37.0,
+    "WTI_USD": 39.9,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-06-30",
+    "Brent_USD": 33.22,
+    "WTI_USD": 36.92,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-07-31",
+    "Brent_USD": 41.47,
+    "WTI_USD": 43.72,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-08-31",
+    "Brent_USD": 39.8,
+    "WTI_USD": 42.23,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-09-30",
+    "Brent_USD": 47.76,
+    "WTI_USD": 49.56,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-10-31",
+    "Brent_USD": 48.16,
+    "WTI_USD": 51.78,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-11-30",
+    "Brent_USD": 44.23,
+    "WTI_USD": 49.16,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2004-12-31",
+    "Brent_USD": 40.38,
+    "WTI_USD": 43.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-01-31",
+    "Brent_USD": 44.51,
+    "WTI_USD": 48.25,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-02-28",
+    "Brent_USD": 50.13,
+    "WTI_USD": 51.75,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-03-31",
+    "Brent_USD": 53.22,
+    "WTI_USD": 55.31,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-04-30",
+    "Brent_USD": 50.61,
+    "WTI_USD": 49.2,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-05-31",
+    "Brent_USD": 49.3,
+    "WTI_USD": 52.08,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-06-30",
+    "Brent_USD": 55.36,
+    "WTI_USD": 56.63,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-07-31",
+    "Brent_USD": 59.77,
+    "WTI_USD": 60.71,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-08-31",
+    "Brent_USD": 66.8,
+    "WTI_USD": 68.63,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-09-30",
+    "Brent_USD": 61.7,
+    "WTI_USD": 66.21,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-10-31",
+    "Brent_USD": 58.47,
+    "WTI_USD": 59.8,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-11-30",
+    "Brent_USD": 53.25,
+    "WTI_USD": 57.33,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2005-12-31",
+    "Brent_USD": 58.34,
+    "WTI_USD": 61.06,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-01-31",
+    "Brent_USD": 63.19,
+    "WTI_USD": 67.86,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-02-28",
+    "Brent_USD": 59.78,
+    "WTI_USD": 61.37,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-03-31",
+    "Brent_USD": 66.06,
+    "WTI_USD": 66.25,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-04-30",
+    "Brent_USD": 72.15,
+    "WTI_USD": 71.8,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-05-31",
+    "Brent_USD": 67.57,
+    "WTI_USD": 71.42,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-06-30",
+    "Brent_USD": 73.2,
+    "WTI_USD": 73.94,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-07-31",
+    "Brent_USD": 74.75,
+    "WTI_USD": 74.56,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-08-31",
+    "Brent_USD": 67.66,
+    "WTI_USD": 70.38,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-09-30",
+    "Brent_USD": 59.09,
+    "WTI_USD": 62.9,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-10-31",
+    "Brent_USD": 56.13,
+    "WTI_USD": 58.72,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-11-30",
+    "Brent_USD": 64.36,
+    "WTI_USD": 62.97,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2006-12-31",
+    "Brent_USD": 58.96,
+    "WTI_USD": 60.85,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-01-31",
+    "Brent_USD": 56.52,
+    "WTI_USD": 58.17,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-02-28",
+    "Brent_USD": 59.39,
+    "WTI_USD": 61.78,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-03-31",
+    "Brent_USD": 68.47,
+    "WTI_USD": 65.94,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-04-30",
+    "Brent_USD": 67.23,
+    "WTI_USD": 65.78,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-05-31",
+    "Brent_USD": 68.18,
+    "WTI_USD": 64.02,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-06-30",
+    "Brent_USD": 72.22,
+    "WTI_USD": 70.47,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-07-31",
+    "Brent_USD": 77.01,
+    "WTI_USD": 78.2,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-08-31",
+    "Brent_USD": 72.29,
+    "WTI_USD": 73.98,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-09-30",
+    "Brent_USD": 80.97,
+    "WTI_USD": 81.64,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-10-31",
+    "Brent_USD": 89.87,
+    "WTI_USD": 94.16,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-11-30",
+    "Brent_USD": 88.71,
+    "WTI_USD": 88.6,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2007-12-31",
+    "Brent_USD": 93.68,
+    "WTI_USD": 95.95,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-01-31",
+    "Brent_USD": 91.58,
+    "WTI_USD": 91.67,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-02-29",
+    "Brent_USD": 100.9,
+    "WTI_USD": 101.78,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-03-31",
+    "Brent_USD": 102.33,
+    "WTI_USD": 101.54,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-04-30",
+    "Brent_USD": 111.12,
+    "WTI_USD": 113.7,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-05-31",
+    "Brent_USD": 127.85,
+    "WTI_USD": 127.35,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-06-30",
+    "Brent_USD": 138.4,
+    "WTI_USD": 139.96,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-07-31",
+    "Brent_USD": 124.1,
+    "WTI_USD": 124.17,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-08-31",
+    "Brent_USD": 113.49,
+    "WTI_USD": 115.55,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-09-30",
+    "Brent_USD": 93.52,
+    "WTI_USD": 100.7,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-10-31",
+    "Brent_USD": 60.0,
+    "WTI_USD": 68.1,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-11-30",
+    "Brent_USD": 47.72,
+    "WTI_USD": 55.21,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2008-12-31",
+    "Brent_USD": 35.82,
+    "WTI_USD": 44.6,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-01-31",
+    "Brent_USD": 44.17,
+    "WTI_USD": 41.73,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-02-28",
+    "Brent_USD": 44.41,
+    "WTI_USD": 44.15,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-03-31",
+    "Brent_USD": 46.13,
+    "WTI_USD": 49.64,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-04-30",
+    "Brent_USD": 50.3,
+    "WTI_USD": 50.35,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-05-31",
+    "Brent_USD": 64.98,
+    "WTI_USD": 66.31,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-06-30",
+    "Brent_USD": 68.11,
+    "WTI_USD": 69.82,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-07-31",
+    "Brent_USD": 70.08,
+    "WTI_USD": 69.26,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-08-31",
+    "Brent_USD": 69.02,
+    "WTI_USD": 69.97,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-09-30",
+    "Brent_USD": 65.82,
+    "WTI_USD": 70.46,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-10-31",
+    "Brent_USD": 74.91,
+    "WTI_USD": 77.04,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-11-30",
+    "Brent_USD": 77.77,
+    "WTI_USD": 77.19,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2009-12-31",
+    "Brent_USD": 77.91,
+    "WTI_USD": 79.39,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-01-31",
+    "Brent_USD": 71.2,
+    "WTI_USD": 72.85,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-02-28",
+    "Brent_USD": 76.36,
+    "WTI_USD": 79.72,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-03-31",
+    "Brent_USD": 80.37,
+    "WTI_USD": 83.45,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-04-30",
+    "Brent_USD": 86.19,
+    "WTI_USD": 86.07,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-05-31",
+    "Brent_USD": 73.0,
+    "WTI_USD": 74.0,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-06-30",
+    "Brent_USD": 74.94,
+    "WTI_USD": 75.59,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-07-31",
+    "Brent_USD": 77.5,
+    "WTI_USD": 78.85,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-08-31",
+    "Brent_USD": 75.51,
+    "WTI_USD": 71.93,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-09-30",
+    "Brent_USD": 80.77,
+    "WTI_USD": 79.95,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-10-31",
+    "Brent_USD": 82.47,
+    "WTI_USD": 81.45,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-11-30",
+    "Brent_USD": 86.02,
+    "WTI_USD": 84.12,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2010-12-31",
+    "Brent_USD": 93.23,
+    "WTI_USD": 91.38,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-01-31",
+    "Brent_USD": 98.97,
+    "WTI_USD": 90.99,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-02-28",
+    "Brent_USD": 112.27,
+    "WTI_USD": 97.1,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-03-31",
+    "Brent_USD": 116.94,
+    "WTI_USD": 106.19,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-04-30",
+    "Brent_USD": 126.59,
+    "WTI_USD": 113.39,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-05-31",
+    "Brent_USD": 117.18,
+    "WTI_USD": 102.7,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-06-30",
+    "Brent_USD": 111.71,
+    "WTI_USD": 95.3,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-07-31",
+    "Brent_USD": 115.93,
+    "WTI_USD": 95.68,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-08-31",
+    "Brent_USD": 116.48,
+    "WTI_USD": 88.81,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-09-30",
+    "Brent_USD": 105.42,
+    "WTI_USD": 78.93,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-10-31",
+    "Brent_USD": 108.43,
+    "WTI_USD": 93.19,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-11-30",
+    "Brent_USD": 111.22,
+    "WTI_USD": 100.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2011-12-31",
+    "Brent_USD": 108.09,
+    "WTI_USD": 98.83,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-01-31",
+    "Brent_USD": 110.26,
+    "WTI_USD": 98.46,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-02-29",
+    "Brent_USD": 122.23,
+    "WTI_USD": 107.08,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-03-31",
+    "Brent_USD": 123.41,
+    "WTI_USD": 103.03,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-04-30",
+    "Brent_USD": 118.66,
+    "WTI_USD": 104.89,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-05-31",
+    "Brent_USD": 103.86,
+    "WTI_USD": 86.52,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-06-30",
+    "Brent_USD": 94.17,
+    "WTI_USD": 85.04,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-07-31",
+    "Brent_USD": 105.93,
+    "WTI_USD": 88.08,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-08-31",
+    "Brent_USD": 113.93,
+    "WTI_USD": 96.47,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-09-30",
+    "Brent_USD": 111.36,
+    "WTI_USD": 92.18,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-10-31",
+    "Brent_USD": 109.89,
+    "WTI_USD": 86.23,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-11-30",
+    "Brent_USD": 110.84,
+    "WTI_USD": 88.54,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2012-12-31",
+    "Brent_USD": 110.8,
+    "WTI_USD": 91.83,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-01-31",
+    "Brent_USD": 115.55,
+    "WTI_USD": 97.65,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-02-28",
+    "Brent_USD": 112.2,
+    "WTI_USD": 92.03,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-03-31",
+    "Brent_USD": 108.46,
+    "WTI_USD": 97.24,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-04-30",
+    "Brent_USD": 101.53,
+    "WTI_USD": 93.22,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-05-31",
+    "Brent_USD": 100.43,
+    "WTI_USD": 91.93,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-06-30",
+    "Brent_USD": 102.49,
+    "WTI_USD": 96.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-07-31",
+    "Brent_USD": 107.89,
+    "WTI_USD": 105.1,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-08-31",
+    "Brent_USD": 115.97,
+    "WTI_USD": 107.98,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-09-30",
+    "Brent_USD": 107.85,
+    "WTI_USD": 102.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-10-31",
+    "Brent_USD": 107.53,
+    "WTI_USD": 96.29,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-11-30",
+    "Brent_USD": 111.07,
+    "WTI_USD": 92.55,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2013-12-31",
+    "Brent_USD": 109.95,
+    "WTI_USD": 98.17,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-01-31",
+    "Brent_USD": 108.16,
+    "WTI_USD": 97.55,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-02-28",
+    "Brent_USD": 108.98,
+    "WTI_USD": 102.88,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-03-31",
+    "Brent_USD": 105.95,
+    "WTI_USD": 101.57,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-04-30",
+    "Brent_USD": 108.63,
+    "WTI_USD": 100.07,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-05-31",
+    "Brent_USD": 109.21,
+    "WTI_USD": 103.4,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-06-30",
+    "Brent_USD": 111.03,
+    "WTI_USD": 106.07,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-07-31",
+    "Brent_USD": 104.94,
+    "WTI_USD": 98.23,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-08-31",
+    "Brent_USD": 101.12,
+    "WTI_USD": 97.86,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-09-30",
+    "Brent_USD": 94.67,
+    "WTI_USD": 91.17,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-10-31",
+    "Brent_USD": 84.17,
+    "WTI_USD": 80.53,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-11-30",
+    "Brent_USD": 71.89,
+    "WTI_USD": 65.94,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2014-12-31",
+    "Brent_USD": 55.27,
+    "WTI_USD": 53.45,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-01-31",
+    "Brent_USD": 47.52,
+    "WTI_USD": 47.79,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-02-28",
+    "Brent_USD": 61.89,
+    "WTI_USD": 49.84,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-03-31",
+    "Brent_USD": 53.69,
+    "WTI_USD": 47.72,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-04-30",
+    "Brent_USD": 63.9,
+    "WTI_USD": 59.62,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-05-31",
+    "Brent_USD": 63.16,
+    "WTI_USD": 60.25,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-06-30",
+    "Brent_USD": 60.31,
+    "WTI_USD": 59.48,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-07-31",
+    "Brent_USD": 53.29,
+    "WTI_USD": 47.11,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-08-31",
+    "Brent_USD": 47.97,
+    "WTI_USD": 49.2,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-09-30",
+    "Brent_USD": 47.29,
+    "WTI_USD": 45.06,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-10-31",
+    "Brent_USD": 48.0,
+    "WTI_USD": 46.6,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-11-30",
+    "Brent_USD": 43.73,
+    "WTI_USD": 40.43,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2015-12-31",
+    "Brent_USD": 36.61,
+    "WTI_USD": 37.13,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-01-31",
+    "Brent_USD": 33.14,
+    "WTI_USD": 33.66,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-02-29",
+    "Brent_USD": 35.92,
+    "WTI_USD": 32.74,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-03-31",
+    "Brent_USD": 36.75,
+    "WTI_USD": 36.94,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-04-30",
+    "Brent_USD": 45.64,
+    "WTI_USD": 45.98,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-05-31",
+    "Brent_USD": 49.26,
+    "WTI_USD": 49.1,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-06-30",
+    "Brent_USD": 48.05,
+    "WTI_USD": 48.27,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-07-31",
+    "Brent_USD": 40.76,
+    "WTI_USD": 41.54,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-08-31",
+    "Brent_USD": 47.94,
+    "WTI_USD": 44.68,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-09-30",
+    "Brent_USD": 48.24,
+    "WTI_USD": 47.72,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-10-31",
+    "Brent_USD": 46.2,
+    "WTI_USD": 46.83,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-11-30",
+    "Brent_USD": 47.95,
+    "WTI_USD": 49.41,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2016-12-31",
+    "Brent_USD": 54.96,
+    "WTI_USD": 53.75,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-01-31",
+    "Brent_USD": 55.25,
+    "WTI_USD": 52.75,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-02-28",
+    "Brent_USD": 53.36,
+    "WTI_USD": 54.0,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-03-31",
+    "Brent_USD": 52.2,
+    "WTI_USD": 50.54,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-04-30",
+    "Brent_USD": 49.46,
+    "WTI_USD": 49.31,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-05-31",
+    "Brent_USD": 49.4,
+    "WTI_USD": 48.29,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-06-30",
+    "Brent_USD": 47.08,
+    "WTI_USD": 46.02,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-07-31",
+    "Brent_USD": 51.99,
+    "WTI_USD": 50.21,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-08-31",
+    "Brent_USD": 52.69,
+    "WTI_USD": 47.26,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-09-30",
+    "Brent_USD": 57.02,
+    "WTI_USD": 51.67,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-10-31",
+    "Brent_USD": 61.35,
+    "WTI_USD": 54.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-11-30",
+    "Brent_USD": 63.53,
+    "WTI_USD": 57.4,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2017-12-31",
+    "Brent_USD": 66.73,
+    "WTI_USD": 60.46,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-01-31",
+    "Brent_USD": 67.78,
+    "WTI_USD": 64.82,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-02-28",
+    "Brent_USD": 66.08,
+    "WTI_USD": 61.43,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-03-31",
+    "Brent_USD": 69.02,
+    "WTI_USD": 64.87,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-04-30",
+    "Brent_USD": 75.92,
+    "WTI_USD": 68.56,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-05-31",
+    "Brent_USD": 76.45,
+    "WTI_USD": 66.98,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-06-30",
+    "Brent_USD": 77.44,
+    "WTI_USD": 74.13,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-07-31",
+    "Brent_USD": 74.16,
+    "WTI_USD": 69.88,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-08-31",
+    "Brent_USD": 76.94,
+    "WTI_USD": 69.84,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-09-30",
+    "Brent_USD": 82.72,
+    "WTI_USD": 73.16,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-10-31",
+    "Brent_USD": 74.84,
+    "WTI_USD": 65.31,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-11-30",
+    "Brent_USD": 57.71,
+    "WTI_USD": 50.78,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2018-12-31",
+    "Brent_USD": 50.57,
+    "WTI_USD": 45.15,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-01-31",
+    "Brent_USD": 62.46,
+    "WTI_USD": 53.84,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-02-28",
+    "Brent_USD": 65.03,
+    "WTI_USD": 57.21,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-03-31",
+    "Brent_USD": 67.93,
+    "WTI_USD": 60.19,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-04-30",
+    "Brent_USD": 72.19,
+    "WTI_USD": 63.83,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-05-31",
+    "Brent_USD": 66.78,
+    "WTI_USD": 53.49,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-06-30",
+    "Brent_USD": 67.52,
+    "WTI_USD": 58.2,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-07-31",
+    "Brent_USD": 64.07,
+    "WTI_USD": 58.53,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-08-31",
+    "Brent_USD": 61.04,
+    "WTI_USD": 55.07,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-09-30",
+    "Brent_USD": 60.99,
+    "WTI_USD": 54.09,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-10-31",
+    "Brent_USD": 59.3,
+    "WTI_USD": 54.02,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-11-30",
+    "Brent_USD": 64.5,
+    "WTI_USD": 58.12,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2019-12-31",
+    "Brent_USD": 67.77,
+    "WTI_USD": 61.14,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-01-31",
+    "Brent_USD": 57.77,
+    "WTI_USD": 51.58,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-02-29",
+    "Brent_USD": 51.31,
+    "WTI_USD": 44.83,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-03-31",
+    "Brent_USD": 14.85,
+    "WTI_USD": 20.51,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-04-30",
+    "Brent_USD": 18.11,
+    "WTI_USD": 19.23,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-05-31",
+    "Brent_USD": 34.15,
+    "WTI_USD": 35.57,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-06-30",
+    "Brent_USD": 41.64,
+    "WTI_USD": 39.27,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-07-31",
+    "Brent_USD": 43.13,
+    "WTI_USD": 40.1,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-08-31",
+    "Brent_USD": 45.22,
+    "WTI_USD": 42.61,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-09-30",
+    "Brent_USD": 40.3,
+    "WTI_USD": 40.05,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-10-31",
+    "Brent_USD": 36.33,
+    "WTI_USD": 35.64,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-11-30",
+    "Brent_USD": 46.84,
+    "WTI_USD": 45.2,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2020-12-31",
+    "Brent_USD": 51.22,
+    "WTI_USD": 48.35,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-01-31",
+    "Brent_USD": 55.25,
+    "WTI_USD": 52.16,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-02-28",
+    "Brent_USD": 65.86,
+    "WTI_USD": 61.55,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-03-31",
+    "Brent_USD": 63.52,
+    "WTI_USD": 59.19,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-04-30",
+    "Brent_USD": 67.73,
+    "WTI_USD": 63.5,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-05-31",
+    "Brent_USD": 69.36,
+    "WTI_USD": 66.31,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-06-30",
+    "Brent_USD": 76.94,
+    "WTI_USD": 73.52,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-07-31",
+    "Brent_USD": 77.72,
+    "WTI_USD": 73.93,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-08-31",
+    "Brent_USD": 73.45,
+    "WTI_USD": 68.43,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-09-30",
+    "Brent_USD": 77.81,
+    "WTI_USD": 75.22,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-10-31",
+    "Brent_USD": 83.1,
+    "WTI_USD": 83.5,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-11-30",
+    "Brent_USD": 70.86,
+    "WTI_USD": 66.14,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2021-12-31",
+    "Brent_USD": 77.24,
+    "WTI_USD": 75.33,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-01-31",
+    "Brent_USD": 92.35,
+    "WTI_USD": 89.16,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-02-28",
+    "Brent_USD": 103.08,
+    "WTI_USD": 96.13,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-03-31",
+    "Brent_USD": 107.29,
+    "WTI_USD": 100.53,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-04-30",
+    "Brent_USD": 108.36,
+    "WTI_USD": 104.59,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-05-31",
+    "Brent_USD": 125.53,
+    "WTI_USD": 114.38,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-06-30",
+    "Brent_USD": 119.78,
+    "WTI_USD": 107.76,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-07-31",
+    "Brent_USD": 111.51,
+    "WTI_USD": 101.31,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-08-31",
+    "Brent_USD": 96.55,
+    "WTI_USD": 90.09,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-09-30",
+    "Brent_USD": 88.9,
+    "WTI_USD": 79.91,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-10-31",
+    "Brent_USD": 93.3,
+    "WTI_USD": 86.54,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-11-30",
+    "Brent_USD": 85.61,
+    "WTI_USD": 80.48,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2022-12-31",
+    "Brent_USD": 82.82,
+    "WTI_USD": 80.16,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-01-31",
+    "Brent_USD": 83.42,
+    "WTI_USD": 78.95,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-02-28",
+    "Brent_USD": 83.21,
+    "WTI_USD": 76.88,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-03-31",
+    "Brent_USD": 79.19,
+    "WTI_USD": 75.68,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-04-30",
+    "Brent_USD": 81.32,
+    "WTI_USD": 76.78,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-05-31",
+    "Brent_USD": 71.98,
+    "WTI_USD": 68.11,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-06-30",
+    "Brent_USD": 74.51,
+    "WTI_USD": 70.66,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-07-31",
+    "Brent_USD": 85.22,
+    "WTI_USD": 81.8,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-08-31",
+    "Brent_USD": 87.29,
+    "WTI_USD": 83.55,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-09-30",
+    "Brent_USD": 95.86,
+    "WTI_USD": 90.77,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-10-31",
+    "Brent_USD": 86.82,
+    "WTI_USD": 81.64,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-11-30",
+    "Brent_USD": 81.72,
+    "WTI_USD": 75.66,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2023-12-31",
+    "Brent_USD": 77.69,
+    "WTI_USD": 71.89,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-01-31",
+    "Brent_USD": 82.98,
+    "WTI_USD": 76.28,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-02-29",
+    "Brent_USD": 84.57,
+    "WTI_USD": 79.22,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-03-31",
+    "Brent_USD": 86.17,
+    "WTI_USD": 83.96,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-04-30",
+    "Brent_USD": 88.23,
+    "WTI_USD": 83.49,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-05-31",
+    "Brent_USD": 79.41,
+    "WTI_USD": 77.97,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-06-30",
+    "Brent_USD": 87.26,
+    "WTI_USD": 82.83,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-07-31",
+    "Brent_USD": 81.39,
+    "WTI_USD": 79.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-08-31",
+    "Brent_USD": 80.2,
+    "WTI_USD": 74.52,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-09-30",
+    "Brent_USD": 72.35,
+    "WTI_USD": 68.75,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-10-31",
+    "Brent_USD": 73.25,
+    "WTI_USD": 69.58,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-11-30",
+    "Brent_USD": 74.16,
+    "WTI_USD": 68.26,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2024-12-31",
+    "Brent_USD": 74.58,
+    "WTI_USD": 72.44,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-01-31",
+    "Brent_USD": 77.11,
+    "WTI_USD": 72.84,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-02-28",
+    "Brent_USD": 74.76,
+    "WTI_USD": 69.97,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-03-31",
+    "Brent_USD": 77.23,
+    "WTI_USD": 71.87,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-04-30",
+    "Brent_USD": 63.37,
+    "WTI_USD": 59.55,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-05-31",
+    "Brent_USD": 64.32,
+    "WTI_USD": 61.46,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-06-30",
+    "Brent_USD": 68.15,
+    "WTI_USD": 66.3,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-07-31",
+    "Brent_USD": 73.43,
+    "WTI_USD": 70.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-08-31",
+    "Brent_USD": 67.83,
+    "WTI_USD": 64.36,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-09-30",
+    "Brent_USD": 68.52,
+    "WTI_USD": 63.17,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-10-31",
+    "Brent_USD": 65.44,
+    "WTI_USD": 61.75,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-11-30",
+    "Brent_USD": 64.07,
+    "WTI_USD": 58.58,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2025-12-31",
+    "Brent_USD": 61.35,
+    "WTI_USD": 57.26,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2026-01-31",
+    "Brent_USD": 72.25,
+    "WTI_USD": 64.5,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2026-02-28",
+    "Brent_USD": 71.32,
+    "WTI_USD": 66.96,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2026-03-31",
+    "Brent_USD": 126.69,
+    "WTI_USD": 102.86,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2026-04-30",
+    "Brent_USD": 124.24,
+    "WTI_USD": 108.64,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  },
+  {
+    "Date": "2026-05-31",
+    "Brent_USD": 118.26,
+    "WTI_USD": 109.76,
+    "Source": "FRED_DCOILBRENTEU_DCOILWTICO"
+  }
+]

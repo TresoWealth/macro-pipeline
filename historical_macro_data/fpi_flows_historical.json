@@ -1,0 +1,1562 @@
+[
+  {
+    "Date": "2010-01-31",
+    "FPI_Equity_Flow": 832.82,
+    "FPI_Debt_Flow": -200.82,
+    "FPI_Equity_Flow_3M": 0.0,
+    "FPI_Debt_Flow_3M": 0.0,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-02-28",
+    "FPI_Equity_Flow": 469.23,
+    "FPI_Debt_Flow": -129.53,
+    "FPI_Equity_Flow_3M": 0.0,
+    "FPI_Debt_Flow_3M": 0.0,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-03-31",
+    "FPI_Equity_Flow": -498.1,
+    "FPI_Debt_Flow": -187.76,
+    "FPI_Equity_Flow_3M": -71.72,
+    "FPI_Debt_Flow_3M": 1744.85,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-04-30",
+    "FPI_Equity_Flow": -150.88,
+    "FPI_Debt_Flow": 17.82,
+    "FPI_Equity_Flow_3M": 2299.07,
+    "FPI_Debt_Flow_3M": -1163.58,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-05-31",
+    "FPI_Equity_Flow": 1043.09,
+    "FPI_Debt_Flow": 634.5,
+    "FPI_Equity_Flow_3M": 4807.84,
+    "FPI_Debt_Flow_3M": 1695.56,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-06-30",
+    "FPI_Equity_Flow": 149.83,
+    "FPI_Debt_Flow": -128.99,
+    "FPI_Equity_Flow_3M": 7190.18,
+    "FPI_Debt_Flow_3M": 1233.38,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-07-31",
+    "FPI_Equity_Flow": 225.25,
+    "FPI_Debt_Flow": -155.88,
+    "FPI_Equity_Flow_3M": 4688.87,
+    "FPI_Debt_Flow_3M": 1543.46,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-08-31",
+    "FPI_Equity_Flow": 61.45,
+    "FPI_Debt_Flow": 212.27,
+    "FPI_Equity_Flow_3M": 7063.28,
+    "FPI_Debt_Flow_3M": 1462.17,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-09-30",
+    "FPI_Equity_Flow": 186.59,
+    "FPI_Debt_Flow": -484.35,
+    "FPI_Equity_Flow_3M": 8079.29,
+    "FPI_Debt_Flow_3M": -421.0,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-10-31",
+    "FPI_Equity_Flow": 479.48,
+    "FPI_Debt_Flow": -99.27,
+    "FPI_Equity_Flow_3M": 13385.02,
+    "FPI_Debt_Flow_3M": 247.95,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-11-30",
+    "FPI_Equity_Flow": 193.23,
+    "FPI_Debt_Flow": 213.27,
+    "FPI_Equity_Flow_3M": 10283.74,
+    "FPI_Debt_Flow_3M": 1684.52,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2010-12-31",
+    "FPI_Equity_Flow": -363.47,
+    "FPI_Debt_Flow": -191.55,
+    "FPI_Equity_Flow_3M": 10361.28,
+    "FPI_Debt_Flow_3M": 5033.62,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-01-31",
+    "FPI_Equity_Flow": 431.07,
+    "FPI_Debt_Flow": 153.22,
+    "FPI_Equity_Flow_3M": 4098.06,
+    "FPI_Debt_Flow_3M": 2513.29,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-02-28",
+    "FPI_Equity_Flow": -180.09,
+    "FPI_Debt_Flow": -41.01,
+    "FPI_Equity_Flow_3M": 5487.7,
+    "FPI_Debt_Flow_3M": 1969.55,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-03-31",
+    "FPI_Equity_Flow": -403.01,
+    "FPI_Debt_Flow": -271.06,
+    "FPI_Equity_Flow_3M": 8205.22,
+    "FPI_Debt_Flow_3M": 2152.74,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-04-30",
+    "FPI_Equity_Flow": 216.02,
+    "FPI_Debt_Flow": -245.36,
+    "FPI_Equity_Flow_3M": 9453.55,
+    "FPI_Debt_Flow_3M": 4687.81,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-05-31",
+    "FPI_Equity_Flow": 106.3,
+    "FPI_Debt_Flow": 443.51,
+    "FPI_Equity_Flow_3M": 8891.44,
+    "FPI_Debt_Flow_3M": 5613.93,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-06-30",
+    "FPI_Equity_Flow": -188.45,
+    "FPI_Debt_Flow": 428.46,
+    "FPI_Equity_Flow_3M": 7646.34,
+    "FPI_Debt_Flow_3M": 4667.05,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-07-31",
+    "FPI_Equity_Flow": 455.81,
+    "FPI_Debt_Flow": -367.82,
+    "FPI_Equity_Flow_3M": 9455.32,
+    "FPI_Debt_Flow_3M": 2353.42,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-08-31",
+    "FPI_Equity_Flow": 458.77,
+    "FPI_Debt_Flow": 60.67,
+    "FPI_Equity_Flow_3M": 10443.76,
+    "FPI_Debt_Flow_3M": 1424.1,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-09-30",
+    "FPI_Equity_Flow": -296.44,
+    "FPI_Debt_Flow": 122.93,
+    "FPI_Equity_Flow_3M": 6278.13,
+    "FPI_Debt_Flow_3M": 698.12,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-10-31",
+    "FPI_Equity_Flow": 388.28,
+    "FPI_Debt_Flow": 172.89,
+    "FPI_Equity_Flow_3M": 5131.86,
+    "FPI_Debt_Flow_3M": 4449.87,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-11-30",
+    "FPI_Equity_Flow": -337.81,
+    "FPI_Debt_Flow": 137.28,
+    "FPI_Equity_Flow_3M": 2361.39,
+    "FPI_Debt_Flow_3M": 4623.29,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2011-12-31",
+    "FPI_Equity_Flow": -734.7,
+    "FPI_Debt_Flow": -399.18,
+    "FPI_Equity_Flow_3M": 4035.89,
+    "FPI_Debt_Flow_3M": 4408.18,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-01-31",
+    "FPI_Equity_Flow": 364.9,
+    "FPI_Debt_Flow": -278.58,
+    "FPI_Equity_Flow_3M": -1602.5,
+    "FPI_Debt_Flow_3M": 3432.94,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-02-29",
+    "FPI_Equity_Flow": -63.01,
+    "FPI_Debt_Flow": 271.75,
+    "FPI_Equity_Flow_3M": 992.89,
+    "FPI_Debt_Flow_3M": -195.36,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-03-31",
+    "FPI_Equity_Flow": 224.11,
+    "FPI_Debt_Flow": -5.16,
+    "FPI_Equity_Flow_3M": 3162.4,
+    "FPI_Debt_Flow_3M": -1055.71,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-04-30",
+    "FPI_Equity_Flow": -286.89,
+    "FPI_Debt_Flow": 255.68,
+    "FPI_Equity_Flow_3M": 7224.54,
+    "FPI_Debt_Flow_3M": -253.34,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-05-31",
+    "FPI_Equity_Flow": 647.1,
+    "FPI_Debt_Flow": -455.4,
+    "FPI_Equity_Flow_3M": 10972.42,
+    "FPI_Debt_Flow_3M": 1871.51,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-06-30",
+    "FPI_Equity_Flow": 1024.48,
+    "FPI_Debt_Flow": -181.53,
+    "FPI_Equity_Flow_3M": 7823.43,
+    "FPI_Debt_Flow_3M": 3561.62,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-07-31",
+    "FPI_Equity_Flow": -71.34,
+    "FPI_Debt_Flow": 130.35,
+    "FPI_Equity_Flow_3M": 6324.36,
+    "FPI_Debt_Flow_3M": 1618.92,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-08-31",
+    "FPI_Equity_Flow": -54.77,
+    "FPI_Debt_Flow": -607.38,
+    "FPI_Equity_Flow_3M": 2786.91,
+    "FPI_Debt_Flow_3M": 3439.23,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-09-30",
+    "FPI_Equity_Flow": 651.65,
+    "FPI_Debt_Flow": 425.94,
+    "FPI_Equity_Flow_3M": 4641.77,
+    "FPI_Debt_Flow_3M": 3941.72,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-10-31",
+    "FPI_Equity_Flow": 932.74,
+    "FPI_Debt_Flow": -391.61,
+    "FPI_Equity_Flow_3M": 6627.45,
+    "FPI_Debt_Flow_3M": 5598.09,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-11-30",
+    "FPI_Equity_Flow": -187.82,
+    "FPI_Debt_Flow": 263.42,
+    "FPI_Equity_Flow_3M": 2528.15,
+    "FPI_Debt_Flow_3M": 4008.82,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2012-12-31",
+    "FPI_Equity_Flow": -567.67,
+    "FPI_Debt_Flow": 662.65,
+    "FPI_Equity_Flow_3M": 5499.76,
+    "FPI_Debt_Flow_3M": 3053.7,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-01-31",
+    "FPI_Equity_Flow": -117.25,
+    "FPI_Debt_Flow": 199.73,
+    "FPI_Equity_Flow_3M": 7962.53,
+    "FPI_Debt_Flow_3M": 6365.11,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-02-28",
+    "FPI_Equity_Flow": -122.75,
+    "FPI_Debt_Flow": -41.56,
+    "FPI_Equity_Flow_3M": 12406.02,
+    "FPI_Debt_Flow_3M": 3950.33,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-03-31",
+    "FPI_Equity_Flow": 346.23,
+    "FPI_Debt_Flow": 90.78,
+    "FPI_Equity_Flow_3M": 9611.85,
+    "FPI_Debt_Flow_3M": 4841.56,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-04-30",
+    "FPI_Equity_Flow": 267.23,
+    "FPI_Debt_Flow": 73.44,
+    "FPI_Equity_Flow_3M": 10326.7,
+    "FPI_Debt_Flow_3M": 2834.63,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-05-31",
+    "FPI_Equity_Flow": 510.24,
+    "FPI_Debt_Flow": -32.12,
+    "FPI_Equity_Flow_3M": 11572.16,
+    "FPI_Debt_Flow_3M": 3262.01,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-06-30",
+    "FPI_Equity_Flow": -53.89,
+    "FPI_Debt_Flow": 12.71,
+    "FPI_Equity_Flow_3M": 15810.81,
+    "FPI_Debt_Flow_3M": 3480.41,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-07-31",
+    "FPI_Equity_Flow": -999.4,
+    "FPI_Debt_Flow": -288.42,
+    "FPI_Equity_Flow_3M": 14813.24,
+    "FPI_Debt_Flow_3M": 3334.81,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-08-31",
+    "FPI_Equity_Flow": 658.65,
+    "FPI_Debt_Flow": 37.61,
+    "FPI_Equity_Flow_3M": 10020.35,
+    "FPI_Debt_Flow_3M": 2622.34,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-09-30",
+    "FPI_Equity_Flow": -126.15,
+    "FPI_Debt_Flow": -2.59,
+    "FPI_Equity_Flow_3M": 6781.65,
+    "FPI_Debt_Flow_3M": 1838.64,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-10-31",
+    "FPI_Equity_Flow": 386.29,
+    "FPI_Debt_Flow": 670.47,
+    "FPI_Equity_Flow_3M": 6070.15,
+    "FPI_Debt_Flow_3M": 4396.59,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-11-30",
+    "FPI_Equity_Flow": 361.42,
+    "FPI_Debt_Flow": -73.74,
+    "FPI_Equity_Flow_3M": 9956.95,
+    "FPI_Debt_Flow_3M": 3930.36,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2013-12-31",
+    "FPI_Equity_Flow": 639.34,
+    "FPI_Debt_Flow": -182.76,
+    "FPI_Equity_Flow_3M": 12984.31,
+    "FPI_Debt_Flow_3M": 3862.88,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-01-31",
+    "FPI_Equity_Flow": -459.83,
+    "FPI_Debt_Flow": -43.8,
+    "FPI_Equity_Flow_3M": 11523.7,
+    "FPI_Debt_Flow_3M": 4098.98,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-02-28",
+    "FPI_Equity_Flow": 315.02,
+    "FPI_Debt_Flow": -309.52,
+    "FPI_Equity_Flow_3M": 9268.25,
+    "FPI_Debt_Flow_3M": 5127.42,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-03-31",
+    "FPI_Equity_Flow": 406.39,
+    "FPI_Debt_Flow": -460.57,
+    "FPI_Equity_Flow_3M": 7817.45,
+    "FPI_Debt_Flow_3M": 2807.79,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-04-30",
+    "FPI_Equity_Flow": 67.93,
+    "FPI_Debt_Flow": -7.07,
+    "FPI_Equity_Flow_3M": 12009.97,
+    "FPI_Debt_Flow_3M": -1026.83,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-05-31",
+    "FPI_Equity_Flow": -395.7,
+    "FPI_Debt_Flow": 455.3,
+    "FPI_Equity_Flow_3M": 12139.85,
+    "FPI_Debt_Flow_3M": -252.57,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-06-30",
+    "FPI_Equity_Flow": 240.6,
+    "FPI_Debt_Flow": 395.08,
+    "FPI_Equity_Flow_3M": 15213.86,
+    "FPI_Debt_Flow_3M": -1033.81,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-07-31",
+    "FPI_Equity_Flow": -696.5,
+    "FPI_Debt_Flow": -155.81,
+    "FPI_Equity_Flow_3M": 5721.16,
+    "FPI_Debt_Flow_3M": -1091.38,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-08-31",
+    "FPI_Equity_Flow": 723.87,
+    "FPI_Debt_Flow": 83.27,
+    "FPI_Equity_Flow_3M": 6628.99,
+    "FPI_Debt_Flow_3M": -1247.52,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-09-30",
+    "FPI_Equity_Flow": -176.79,
+    "FPI_Debt_Flow": -100.06,
+    "FPI_Equity_Flow_3M": 6064.95,
+    "FPI_Debt_Flow_3M": 746.5,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-10-31",
+    "FPI_Equity_Flow": 379.16,
+    "FPI_Debt_Flow": 11.44,
+    "FPI_Equity_Flow_3M": 8358.68,
+    "FPI_Debt_Flow_3M": 4091.28,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-11-30",
+    "FPI_Equity_Flow": 166.77,
+    "FPI_Debt_Flow": 201.37,
+    "FPI_Equity_Flow_3M": 9604.56,
+    "FPI_Debt_Flow_3M": 3531.26,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2014-12-31",
+    "FPI_Equity_Flow": -277.87,
+    "FPI_Debt_Flow": 335.74,
+    "FPI_Equity_Flow_3M": 4875.1,
+    "FPI_Debt_Flow_3M": 2587.95,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-01-31",
+    "FPI_Equity_Flow": -887.73,
+    "FPI_Debt_Flow": 42.12,
+    "FPI_Equity_Flow_3M": 6498.16,
+    "FPI_Debt_Flow_3M": 4215.29,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-02-28",
+    "FPI_Equity_Flow": -642.45,
+    "FPI_Debt_Flow": 356.92,
+    "FPI_Equity_Flow_3M": 6506.01,
+    "FPI_Debt_Flow_3M": 4055.87,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-03-31",
+    "FPI_Equity_Flow": -366.63,
+    "FPI_Debt_Flow": 341.09,
+    "FPI_Equity_Flow_3M": 2100.08,
+    "FPI_Debt_Flow_3M": 4110.64,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-04-30",
+    "FPI_Equity_Flow": -276.71,
+    "FPI_Debt_Flow": 20.74,
+    "FPI_Equity_Flow_3M": 5548.8,
+    "FPI_Debt_Flow_3M": 3107.62,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-05-31",
+    "FPI_Equity_Flow": 764.1,
+    "FPI_Debt_Flow": -132.27,
+    "FPI_Equity_Flow_3M": 5977.3,
+    "FPI_Debt_Flow_3M": 2503.03,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-06-30",
+    "FPI_Equity_Flow": 530.24,
+    "FPI_Debt_Flow": -469.08,
+    "FPI_Equity_Flow_3M": 13516.36,
+    "FPI_Debt_Flow_3M": 2610.59,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-07-31",
+    "FPI_Equity_Flow": -780.38,
+    "FPI_Debt_Flow": -473.94,
+    "FPI_Equity_Flow_3M": 13233.59,
+    "FPI_Debt_Flow_3M": 2740.59,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-08-31",
+    "FPI_Equity_Flow": 39.53,
+    "FPI_Debt_Flow": 307.02,
+    "FPI_Equity_Flow_3M": 12424.0,
+    "FPI_Debt_Flow_3M": 1846.22,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-09-30",
+    "FPI_Equity_Flow": 612.03,
+    "FPI_Debt_Flow": -122.22,
+    "FPI_Equity_Flow_3M": 15395.31,
+    "FPI_Debt_Flow_3M": 400.65,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-10-31",
+    "FPI_Equity_Flow": 710.52,
+    "FPI_Debt_Flow": 221.13,
+    "FPI_Equity_Flow_3M": 12145.83,
+    "FPI_Debt_Flow_3M": 312.17,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-11-30",
+    "FPI_Equity_Flow": 986.13,
+    "FPI_Debt_Flow": -56.79,
+    "FPI_Equity_Flow_3M": 9895.23,
+    "FPI_Debt_Flow_3M": -801.44,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2015-12-31",
+    "FPI_Equity_Flow": 468.42,
+    "FPI_Debt_Flow": 138.57,
+    "FPI_Equity_Flow_3M": 5403.45,
+    "FPI_Debt_Flow_3M": 618.03,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-01-31",
+    "FPI_Equity_Flow": 446.55,
+    "FPI_Debt_Flow": 130.58,
+    "FPI_Equity_Flow_3M": 2623.01,
+    "FPI_Debt_Flow_3M": 3191.74,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-02-29",
+    "FPI_Equity_Flow": 161.34,
+    "FPI_Debt_Flow": -398.05,
+    "FPI_Equity_Flow_3M": 869.93,
+    "FPI_Debt_Flow_3M": 1520.61,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-03-31",
+    "FPI_Equity_Flow": 526.39,
+    "FPI_Debt_Flow": -129.95,
+    "FPI_Equity_Flow_3M": 5230.02,
+    "FPI_Debt_Flow_3M": -1271.96,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-04-30",
+    "FPI_Equity_Flow": 389.82,
+    "FPI_Debt_Flow": -171.21,
+    "FPI_Equity_Flow_3M": 9938.45,
+    "FPI_Debt_Flow_3M": -3833.84,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-05-31",
+    "FPI_Equity_Flow": -95.88,
+    "FPI_Debt_Flow": 551.4,
+    "FPI_Equity_Flow_3M": 12502.26,
+    "FPI_Debt_Flow_3M": -3803.48,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-06-30",
+    "FPI_Equity_Flow": 163.19,
+    "FPI_Debt_Flow": -240.01,
+    "FPI_Equity_Flow_3M": 11254.78,
+    "FPI_Debt_Flow_3M": -1197.28,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-07-31",
+    "FPI_Equity_Flow": 54.73,
+    "FPI_Debt_Flow": 57.62,
+    "FPI_Equity_Flow_3M": 9877.85,
+    "FPI_Debt_Flow_3M": 1194.48,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-08-31",
+    "FPI_Equity_Flow": 575.15,
+    "FPI_Debt_Flow": 184.09,
+    "FPI_Equity_Flow_3M": 10797.91,
+    "FPI_Debt_Flow_3M": 4893.41,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-09-30",
+    "FPI_Equity_Flow": 919.98,
+    "FPI_Debt_Flow": 395.79,
+    "FPI_Equity_Flow_3M": 13050.57,
+    "FPI_Debt_Flow_3M": 8268.03,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-10-31",
+    "FPI_Equity_Flow": 58.45,
+    "FPI_Debt_Flow": 108.3,
+    "FPI_Equity_Flow_3M": 8853.12,
+    "FPI_Debt_Flow_3M": 6730.84,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-11-30",
+    "FPI_Equity_Flow": -656.86,
+    "FPI_Debt_Flow": 295.19,
+    "FPI_Equity_Flow_3M": 5737.04,
+    "FPI_Debt_Flow_3M": 3824.2,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2016-12-31",
+    "FPI_Equity_Flow": 320.97,
+    "FPI_Debt_Flow": 266.73,
+    "FPI_Equity_Flow_3M": -907.2,
+    "FPI_Debt_Flow_3M": 5748.72,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-01-31",
+    "FPI_Equity_Flow": -333.09,
+    "FPI_Debt_Flow": 90.19,
+    "FPI_Equity_Flow_3M": 420.83,
+    "FPI_Debt_Flow_3M": 7219.22,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-02-28",
+    "FPI_Equity_Flow": 663.35,
+    "FPI_Debt_Flow": 154.98,
+    "FPI_Equity_Flow_3M": 5743.17,
+    "FPI_Debt_Flow_3M": 6765.99,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-03-31",
+    "FPI_Equity_Flow": 373.14,
+    "FPI_Debt_Flow": 401.54,
+    "FPI_Equity_Flow_3M": 6904.75,
+    "FPI_Debt_Flow_3M": 2939.64,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-04-30",
+    "FPI_Equity_Flow": 966.26,
+    "FPI_Debt_Flow": 69.09,
+    "FPI_Equity_Flow_3M": 8503.55,
+    "FPI_Debt_Flow_3M": 2577.72,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-05-31",
+    "FPI_Equity_Flow": 47.03,
+    "FPI_Debt_Flow": 181.52,
+    "FPI_Equity_Flow_3M": 5412.86,
+    "FPI_Debt_Flow_3M": 2121.06,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-06-30",
+    "FPI_Equity_Flow": 787.22,
+    "FPI_Debt_Flow": -272.91,
+    "FPI_Equity_Flow_3M": 7072.69,
+    "FPI_Debt_Flow_3M": 2801.22,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-07-31",
+    "FPI_Equity_Flow": 662.06,
+    "FPI_Debt_Flow": -92.97,
+    "FPI_Equity_Flow_3M": 6821.09,
+    "FPI_Debt_Flow_3M": 2404.09,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-08-31",
+    "FPI_Equity_Flow": -272.45,
+    "FPI_Debt_Flow": 340.81,
+    "FPI_Equity_Flow_3M": 11316.06,
+    "FPI_Debt_Flow_3M": 2130.77,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-09-30",
+    "FPI_Equity_Flow": 129.97,
+    "FPI_Debt_Flow": 466.93,
+    "FPI_Equity_Flow_3M": 5339.12,
+    "FPI_Debt_Flow_3M": 1611.66,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-10-31",
+    "FPI_Equity_Flow": -162.04,
+    "FPI_Debt_Flow": -312.76,
+    "FPI_Equity_Flow_3M": 4155.55,
+    "FPI_Debt_Flow_3M": 3652.58,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-11-30",
+    "FPI_Equity_Flow": 232.68,
+    "FPI_Debt_Flow": -16.48,
+    "FPI_Equity_Flow_3M": 2455.95,
+    "FPI_Debt_Flow_3M": 3848.07,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2017-12-31",
+    "FPI_Equity_Flow": -510.36,
+    "FPI_Debt_Flow": 47.69,
+    "FPI_Equity_Flow_3M": 4298.45,
+    "FPI_Debt_Flow_3M": 5711.73,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-01-31",
+    "FPI_Equity_Flow": -64.31,
+    "FPI_Debt_Flow": 59.53,
+    "FPI_Equity_Flow_3M": 4154.73,
+    "FPI_Debt_Flow_3M": 4520.39,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-02-28",
+    "FPI_Equity_Flow": 457.69,
+    "FPI_Debt_Flow": 467.08,
+    "FPI_Equity_Flow_3M": 4721.22,
+    "FPI_Debt_Flow_3M": 4527.04,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-03-31",
+    "FPI_Equity_Flow": 12.07,
+    "FPI_Debt_Flow": 42.68,
+    "FPI_Equity_Flow_3M": 5226.87,
+    "FPI_Debt_Flow_3M": 3266.66,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-04-30",
+    "FPI_Equity_Flow": 62.02,
+    "FPI_Debt_Flow": 141.94,
+    "FPI_Equity_Flow_3M": 5761.19,
+    "FPI_Debt_Flow_3M": 2658.79,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-05-31",
+    "FPI_Equity_Flow": 194.85,
+    "FPI_Debt_Flow": -138.6,
+    "FPI_Equity_Flow_3M": 5435.1,
+    "FPI_Debt_Flow_3M": 3065.81,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-06-30",
+    "FPI_Equity_Flow": 232.94,
+    "FPI_Debt_Flow": 341.05,
+    "FPI_Equity_Flow_3M": 6825.07,
+    "FPI_Debt_Flow_3M": -1554.62,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-07-31",
+    "FPI_Equity_Flow": -376.97,
+    "FPI_Debt_Flow": -664.22,
+    "FPI_Equity_Flow_3M": 6943.04,
+    "FPI_Debt_Flow_3M": -3732.65,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-08-31",
+    "FPI_Equity_Flow": 318.37,
+    "FPI_Debt_Flow": 349.18,
+    "FPI_Equity_Flow_3M": 6195.95,
+    "FPI_Debt_Flow_3M": -1523.74,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-09-30",
+    "FPI_Equity_Flow": -762.9,
+    "FPI_Debt_Flow": 557.7,
+    "FPI_Equity_Flow_3M": 3881.49,
+    "FPI_Debt_Flow_3M": 2281.42,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-10-31",
+    "FPI_Equity_Flow": 225.1,
+    "FPI_Debt_Flow": -256.98,
+    "FPI_Equity_Flow_3M": 5595.81,
+    "FPI_Debt_Flow_3M": 5062.12,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-11-30",
+    "FPI_Equity_Flow": 434.37,
+    "FPI_Debt_Flow": 453.83,
+    "FPI_Equity_Flow_3M": 11809.47,
+    "FPI_Debt_Flow_3M": 3573.92,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2018-12-31",
+    "FPI_Equity_Flow": -139.42,
+    "FPI_Debt_Flow": -30.99,
+    "FPI_Equity_Flow_3M": 14042.93,
+    "FPI_Debt_Flow_3M": 3886.38,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-01-31",
+    "FPI_Equity_Flow": 717.91,
+    "FPI_Debt_Flow": -460.5,
+    "FPI_Equity_Flow_3M": 7373.31,
+    "FPI_Debt_Flow_3M": 3459.85,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-02-28",
+    "FPI_Equity_Flow": 617.62,
+    "FPI_Debt_Flow": -564.85,
+    "FPI_Equity_Flow_3M": 3918.12,
+    "FPI_Debt_Flow_3M": 2932.61,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-03-31",
+    "FPI_Equity_Flow": 509.39,
+    "FPI_Debt_Flow": 215.87,
+    "FPI_Equity_Flow_3M": 1213.31,
+    "FPI_Debt_Flow_3M": 1723.24,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-04-30",
+    "FPI_Equity_Flow": 88.22,
+    "FPI_Debt_Flow": 165.72,
+    "FPI_Equity_Flow_3M": 3877.04,
+    "FPI_Debt_Flow_3M": 1370.85,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-05-31",
+    "FPI_Equity_Flow": 843.62,
+    "FPI_Debt_Flow": -160.87,
+    "FPI_Equity_Flow_3M": 5883.97,
+    "FPI_Debt_Flow_3M": 299.6,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-06-30",
+    "FPI_Equity_Flow": 460.78,
+    "FPI_Debt_Flow": 478.63,
+    "FPI_Equity_Flow_3M": 9008.35,
+    "FPI_Debt_Flow_3M": 1132.57,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-07-31",
+    "FPI_Equity_Flow": 495.19,
+    "FPI_Debt_Flow": 234.48,
+    "FPI_Equity_Flow_3M": 8596.61,
+    "FPI_Debt_Flow_3M": 3301.62,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-08-31",
+    "FPI_Equity_Flow": 187.61,
+    "FPI_Debt_Flow": 153.84,
+    "FPI_Equity_Flow_3M": 8700.44,
+    "FPI_Debt_Flow_3M": 1675.56,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-09-30",
+    "FPI_Equity_Flow": -529.25,
+    "FPI_Debt_Flow": 147.21,
+    "FPI_Equity_Flow_3M": 8142.62,
+    "FPI_Debt_Flow_3M": 3444.56,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-10-31",
+    "FPI_Equity_Flow": -347.67,
+    "FPI_Debt_Flow": -234.69,
+    "FPI_Equity_Flow_3M": 5722.17,
+    "FPI_Debt_Flow_3M": 3127.48,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-11-30",
+    "FPI_Equity_Flow": -212.84,
+    "FPI_Debt_Flow": 600.17,
+    "FPI_Equity_Flow_3M": 8730.92,
+    "FPI_Debt_Flow_3M": 2431.22,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2019-12-31",
+    "FPI_Equity_Flow": -1002.78,
+    "FPI_Debt_Flow": -205.27,
+    "FPI_Equity_Flow_3M": 2966.41,
+    "FPI_Debt_Flow_3M": -614.24,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-01-31",
+    "FPI_Equity_Flow": 248.29,
+    "FPI_Debt_Flow": 378.44,
+    "FPI_Equity_Flow_3M": 9257.86,
+    "FPI_Debt_Flow_3M": 1374.89,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-02-29",
+    "FPI_Equity_Flow": -353.88,
+    "FPI_Debt_Flow": -392.88,
+    "FPI_Equity_Flow_3M": 6727.29,
+    "FPI_Debt_Flow_3M": 750.11,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-03-31",
+    "FPI_Equity_Flow": 230.22,
+    "FPI_Debt_Flow": -207.88,
+    "FPI_Equity_Flow_3M": 10265.93,
+    "FPI_Debt_Flow_3M": 1289.31,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-04-30",
+    "FPI_Equity_Flow": 266.93,
+    "FPI_Debt_Flow": -184.71,
+    "FPI_Equity_Flow_3M": 4981.35,
+    "FPI_Debt_Flow_3M": -1760.39,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-05-31",
+    "FPI_Equity_Flow": -950.01,
+    "FPI_Debt_Flow": 401.35,
+    "FPI_Equity_Flow_3M": 8063.44,
+    "FPI_Debt_Flow_3M": 1741.61,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-06-30",
+    "FPI_Equity_Flow": 271.17,
+    "FPI_Debt_Flow": 399.22,
+    "FPI_Equity_Flow_3M": 14188.42,
+    "FPI_Debt_Flow_3M": 4606.8,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-07-31",
+    "FPI_Equity_Flow": 414.76,
+    "FPI_Debt_Flow": 280.71,
+    "FPI_Equity_Flow_3M": 15983.68,
+    "FPI_Debt_Flow_3M": 6024.39,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-08-31",
+    "FPI_Equity_Flow": -224.88,
+    "FPI_Debt_Flow": -206.18,
+    "FPI_Equity_Flow_3M": 10379.51,
+    "FPI_Debt_Flow_3M": 8701.56,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-09-30",
+    "FPI_Equity_Flow": -402.03,
+    "FPI_Debt_Flow": -184.78,
+    "FPI_Equity_Flow_3M": 1065.92,
+    "FPI_Debt_Flow_3M": 4830.53,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-10-31",
+    "FPI_Equity_Flow": 952.05,
+    "FPI_Debt_Flow": 229.26,
+    "FPI_Equity_Flow_3M": 1879.3,
+    "FPI_Debt_Flow_3M": 5229.45,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-11-30",
+    "FPI_Equity_Flow": -194.43,
+    "FPI_Debt_Flow": -183.81,
+    "FPI_Equity_Flow_3M": 6129.28,
+    "FPI_Debt_Flow_3M": 3479.44,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2020-12-31",
+    "FPI_Equity_Flow": 714.49,
+    "FPI_Debt_Flow": -66.29,
+    "FPI_Equity_Flow_3M": 8419.55,
+    "FPI_Debt_Flow_3M": 3654.25,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-01-31",
+    "FPI_Equity_Flow": 170.63,
+    "FPI_Debt_Flow": 56.92,
+    "FPI_Equity_Flow_3M": 341.91,
+    "FPI_Debt_Flow_3M": 1761.26,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-02-28",
+    "FPI_Equity_Flow": -167.67,
+    "FPI_Debt_Flow": 226.89,
+    "FPI_Equity_Flow_3M": -106.48,
+    "FPI_Debt_Flow_3M": 392.69,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-03-31",
+    "FPI_Equity_Flow": 577.65,
+    "FPI_Debt_Flow": 61.57,
+    "FPI_Equity_Flow_3M": 4714.48,
+    "FPI_Debt_Flow_3M": 1161.34,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-04-30",
+    "FPI_Equity_Flow": 973.68,
+    "FPI_Debt_Flow": 60.03,
+    "FPI_Equity_Flow_3M": 10942.31,
+    "FPI_Debt_Flow_3M": 1535.57,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-05-31",
+    "FPI_Equity_Flow": 731.85,
+    "FPI_Debt_Flow": -337.28,
+    "FPI_Equity_Flow_3M": 8890.52,
+    "FPI_Debt_Flow_3M": 3704.02,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-06-30",
+    "FPI_Equity_Flow": 267.09,
+    "FPI_Debt_Flow": -138.44,
+    "FPI_Equity_Flow_3M": 4652.04,
+    "FPI_Debt_Flow_3M": 4294.51,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-07-31",
+    "FPI_Equity_Flow": 700.13,
+    "FPI_Debt_Flow": 25.07,
+    "FPI_Equity_Flow_3M": 2272.67,
+    "FPI_Debt_Flow_3M": 3753.29,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-08-31",
+    "FPI_Equity_Flow": -193.27,
+    "FPI_Debt_Flow": 25.22,
+    "FPI_Equity_Flow_3M": 689.02,
+    "FPI_Debt_Flow_3M": 4257.86,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-09-30",
+    "FPI_Equity_Flow": -657.24,
+    "FPI_Debt_Flow": -148.31,
+    "FPI_Equity_Flow_3M": -1194.94,
+    "FPI_Debt_Flow_3M": 3382.62,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-10-31",
+    "FPI_Equity_Flow": 255.0,
+    "FPI_Debt_Flow": 14.7,
+    "FPI_Equity_Flow_3M": 4173.52,
+    "FPI_Debt_Flow_3M": 2346.52,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-11-30",
+    "FPI_Equity_Flow": 386.2,
+    "FPI_Debt_Flow": -222.9,
+    "FPI_Equity_Flow_3M": 7785.68,
+    "FPI_Debt_Flow_3M": 3390.86,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2021-12-31",
+    "FPI_Equity_Flow": 55.38,
+    "FPI_Debt_Flow": 568.39,
+    "FPI_Equity_Flow_3M": 8048.14,
+    "FPI_Debt_Flow_3M": 5063.64,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-01-31",
+    "FPI_Equity_Flow": -84.6,
+    "FPI_Debt_Flow": 144.3,
+    "FPI_Equity_Flow_3M": 5116.21,
+    "FPI_Debt_Flow_3M": 6710.24,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-02-28",
+    "FPI_Equity_Flow": 404.12,
+    "FPI_Debt_Flow": 259.84,
+    "FPI_Equity_Flow_3M": -2314.95,
+    "FPI_Debt_Flow_3M": 5557.13,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-03-31",
+    "FPI_Equity_Flow": -667.52,
+    "FPI_Debt_Flow": 61.91,
+    "FPI_Equity_Flow_3M": -42.87,
+    "FPI_Debt_Flow_3M": 3275.91,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-04-30",
+    "FPI_Equity_Flow": 990.9,
+    "FPI_Debt_Flow": 192.6,
+    "FPI_Equity_Flow_3M": 5045.41,
+    "FPI_Debt_Flow_3M": 3670.31,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-05-31",
+    "FPI_Equity_Flow": -527.46,
+    "FPI_Debt_Flow": 432.33,
+    "FPI_Equity_Flow_3M": 8266.5,
+    "FPI_Debt_Flow_3M": 957.0,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-06-30",
+    "FPI_Equity_Flow": 818.17,
+    "FPI_Debt_Flow": -100.08,
+    "FPI_Equity_Flow_3M": 10839.03,
+    "FPI_Debt_Flow_3M": 2189.31,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-07-31",
+    "FPI_Equity_Flow": -330.85,
+    "FPI_Debt_Flow": 584.87,
+    "FPI_Equity_Flow_3M": 11203.07,
+    "FPI_Debt_Flow_3M": 1571.08,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-08-31",
+    "FPI_Equity_Flow": -412.88,
+    "FPI_Debt_Flow": -43.28,
+    "FPI_Equity_Flow_3M": 8411.29,
+    "FPI_Debt_Flow_3M": 661.58,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-09-30",
+    "FPI_Equity_Flow": 337.58,
+    "FPI_Debt_Flow": -288.58,
+    "FPI_Equity_Flow_3M": 10017.59,
+    "FPI_Debt_Flow_3M": 2332.11,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-10-31",
+    "FPI_Equity_Flow": -42.19,
+    "FPI_Debt_Flow": 41.53,
+    "FPI_Equity_Flow_3M": 9210.84,
+    "FPI_Debt_Flow_3M": 544.52,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-11-30",
+    "FPI_Equity_Flow": 300.24,
+    "FPI_Debt_Flow": 141.7,
+    "FPI_Equity_Flow_3M": 6979.24,
+    "FPI_Debt_Flow_3M": 2354.47,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2022-12-31",
+    "FPI_Equity_Flow": -688.5,
+    "FPI_Debt_Flow": 380.52,
+    "FPI_Equity_Flow_3M": 5640.88,
+    "FPI_Debt_Flow_3M": -518.31,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-01-31",
+    "FPI_Equity_Flow": 1095.78,
+    "FPI_Debt_Flow": -249.17,
+    "FPI_Equity_Flow_3M": 6044.98,
+    "FPI_Debt_Flow_3M": 604.47,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-02-28",
+    "FPI_Equity_Flow": 361.13,
+    "FPI_Debt_Flow": 48.78,
+    "FPI_Equity_Flow_3M": 11498.95,
+    "FPI_Debt_Flow_3M": 1931.85,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-03-31",
+    "FPI_Equity_Flow": 1126.49,
+    "FPI_Debt_Flow": -129.1,
+    "FPI_Equity_Flow_3M": 9702.74,
+    "FPI_Debt_Flow_3M": 1594.88,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-04-30",
+    "FPI_Equity_Flow": -542.29,
+    "FPI_Debt_Flow": -349.94,
+    "FPI_Equity_Flow_3M": 5730.61,
+    "FPI_Debt_Flow_3M": 2579.96,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-05-31",
+    "FPI_Equity_Flow": 8.42,
+    "FPI_Debt_Flow": 85.31,
+    "FPI_Equity_Flow_3M": 2208.92,
+    "FPI_Debt_Flow_3M": 3006.4,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-06-30",
+    "FPI_Equity_Flow": 351.37,
+    "FPI_Debt_Flow": -236.82,
+    "FPI_Equity_Flow_3M": 4331.89,
+    "FPI_Debt_Flow_3M": 5765.74,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-07-31",
+    "FPI_Equity_Flow": 825.5,
+    "FPI_Debt_Flow": -255.66,
+    "FPI_Equity_Flow_3M": 6428.92,
+    "FPI_Debt_Flow_3M": 7361.33,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-08-31",
+    "FPI_Equity_Flow": 579.19,
+    "FPI_Debt_Flow": -200.08,
+    "FPI_Equity_Flow_3M": 7091.02,
+    "FPI_Debt_Flow_3M": 6177.2,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-09-30",
+    "FPI_Equity_Flow": -546.75,
+    "FPI_Debt_Flow": 306.0,
+    "FPI_Equity_Flow_3M": 10693.19,
+    "FPI_Debt_Flow_3M": 4594.73,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-10-31",
+    "FPI_Equity_Flow": 640.99,
+    "FPI_Debt_Flow": -68.59,
+    "FPI_Equity_Flow_3M": 9640.29,
+    "FPI_Debt_Flow_3M": 3252.37,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-11-30",
+    "FPI_Equity_Flow": -216.38,
+    "FPI_Debt_Flow": -255.28,
+    "FPI_Equity_Flow_3M": 8299.58,
+    "FPI_Debt_Flow_3M": 2710.51,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2023-12-31",
+    "FPI_Equity_Flow": 304.03,
+    "FPI_Debt_Flow": 401.2,
+    "FPI_Equity_Flow_3M": 7505.02,
+    "FPI_Debt_Flow_3M": 5347.72,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-01-31",
+    "FPI_Equity_Flow": 510.08,
+    "FPI_Debt_Flow": 284.95,
+    "FPI_Equity_Flow_3M": 6829.36,
+    "FPI_Debt_Flow_3M": 2490.17,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-02-29",
+    "FPI_Equity_Flow": 536.1,
+    "FPI_Debt_Flow": 232.48,
+    "FPI_Equity_Flow_3M": 12225.48,
+    "FPI_Debt_Flow_3M": 4181.73,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-03-31",
+    "FPI_Equity_Flow": 20.92,
+    "FPI_Debt_Flow": 343.36,
+    "FPI_Equity_Flow_3M": 11461.18,
+    "FPI_Debt_Flow_3M": 3129.55,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-04-30",
+    "FPI_Equity_Flow": 20.32,
+    "FPI_Debt_Flow": -103.18,
+    "FPI_Equity_Flow_3M": 10567.59,
+    "FPI_Debt_Flow_3M": 6436.89,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-05-31",
+    "FPI_Equity_Flow": 261.04,
+    "FPI_Debt_Flow": 148.1,
+    "FPI_Equity_Flow_3M": 4255.23,
+    "FPI_Debt_Flow_3M": 6741.16,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-06-30",
+    "FPI_Equity_Flow": 24.84,
+    "FPI_Debt_Flow": -169.88,
+    "FPI_Equity_Flow_3M": -1625.56,
+    "FPI_Debt_Flow_3M": 9022.38,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-07-31",
+    "FPI_Equity_Flow": 179.73,
+    "FPI_Debt_Flow": 726.21,
+    "FPI_Equity_Flow_3M": -1937.04,
+    "FPI_Debt_Flow_3M": 5365.87,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-08-31",
+    "FPI_Equity_Flow": 685.86,
+    "FPI_Debt_Flow": 95.18,
+    "FPI_Equity_Flow_3M": -4133.34,
+    "FPI_Debt_Flow_3M": 1851.35,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-09-30",
+    "FPI_Equity_Flow": 645.43,
+    "FPI_Debt_Flow": -108.67,
+    "FPI_Equity_Flow_3M": 557.77,
+    "FPI_Debt_Flow_3M": -369.72,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-10-31",
+    "FPI_Equity_Flow": 598.06,
+    "FPI_Debt_Flow": -544.25,
+    "FPI_Equity_Flow_3M": 1591.21,
+    "FPI_Debt_Flow_3M": 451.15,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-11-30",
+    "FPI_Equity_Flow": 446.43,
+    "FPI_Debt_Flow": 313.7,
+    "FPI_Equity_Flow_3M": 1997.97,
+    "FPI_Debt_Flow_3M": 630.87,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2024-12-31",
+    "FPI_Equity_Flow": 604.74,
+    "FPI_Debt_Flow": 129.13,
+    "FPI_Equity_Flow_3M": 3512.19,
+    "FPI_Debt_Flow_3M": -204.35,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-01-31",
+    "FPI_Equity_Flow": 294.16,
+    "FPI_Debt_Flow": 429.16,
+    "FPI_Equity_Flow_3M": 7021.01,
+    "FPI_Debt_Flow_3M": 1585.62,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-02-28",
+    "FPI_Equity_Flow": -205.69,
+    "FPI_Debt_Flow": -73.01,
+    "FPI_Equity_Flow_3M": 8422.78,
+    "FPI_Debt_Flow_3M": 4429.84,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-03-31",
+    "FPI_Equity_Flow": 353.12,
+    "FPI_Debt_Flow": -186.11,
+    "FPI_Equity_Flow_3M": 9790.84,
+    "FPI_Debt_Flow_3M": 4694.57,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-04-30",
+    "FPI_Equity_Flow": 921.69,
+    "FPI_Debt_Flow": 366.83,
+    "FPI_Equity_Flow_3M": 7361.3,
+    "FPI_Debt_Flow_3M": 2867.93,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-05-31",
+    "FPI_Equity_Flow": 1184.97,
+    "FPI_Debt_Flow": 386.51,
+    "FPI_Equity_Flow_3M": 5715.85,
+    "FPI_Debt_Flow_3M": 2846.92,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-06-30",
+    "FPI_Equity_Flow": 482.94,
+    "FPI_Debt_Flow": 284.45,
+    "FPI_Equity_Flow_3M": -652.81,
+    "FPI_Debt_Flow_3M": 3152.11,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-07-31",
+    "FPI_Equity_Flow": -395.85,
+    "FPI_Debt_Flow": 486.15,
+    "FPI_Equity_Flow_3M": 3219.63,
+    "FPI_Debt_Flow_3M": 5845.24,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-08-31",
+    "FPI_Equity_Flow": -12.16,
+    "FPI_Debt_Flow": -347.19,
+    "FPI_Equity_Flow_3M": 4765.42,
+    "FPI_Debt_Flow_3M": 4984.84,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-09-30",
+    "FPI_Equity_Flow": 778.29,
+    "FPI_Debt_Flow": -349.07,
+    "FPI_Equity_Flow_3M": 8040.69,
+    "FPI_Debt_Flow_3M": 7142.5,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-10-31",
+    "FPI_Equity_Flow": -21.53,
+    "FPI_Debt_Flow": 220.59,
+    "FPI_Equity_Flow_3M": 5399.62,
+    "FPI_Debt_Flow_3M": 5612.14,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-11-30",
+    "FPI_Equity_Flow": 69.8,
+    "FPI_Debt_Flow": 539.04,
+    "FPI_Equity_Flow_3M": 8101.91,
+    "FPI_Debt_Flow_3M": 4312.79,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2025-12-31",
+    "FPI_Equity_Flow": -383.12,
+    "FPI_Debt_Flow": 37.72,
+    "FPI_Equity_Flow_3M": 4271.75,
+    "FPI_Debt_Flow_3M": 4592.97,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2026-01-31",
+    "FPI_Equity_Flow": -147.94,
+    "FPI_Debt_Flow": 26.36,
+    "FPI_Equity_Flow_3M": 3726.13,
+    "FPI_Debt_Flow_3M": 1753.73,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2026-02-28",
+    "FPI_Equity_Flow": 379.17,
+    "FPI_Debt_Flow": 186.17,
+    "FPI_Equity_Flow_3M": -3146.21,
+    "FPI_Debt_Flow_3M": 2772.71,
+    "Source": "NSDL_FPI_DailyReport"
+  },
+  {
+    "Date": "2026-03-31",
+    "FPI_Equity_Flow": -489.73,
+    "FPI_Debt_Flow": 511.27,
+    "FPI_Equity_Flow_3M": -1958.22,
+    "FPI_Debt_Flow_3M": 1576.03,
+    "Source": "NSDL_FPI_DailyReport"
+  }
+]

@@ -1,0 +1,1587 @@
+[
+  {
+    "Date": "2000-01-31",
+    "USDINR": 43.65,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-02-29",
+    "USDINR": 43.65,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-03-31",
+    "USDINR": 43.65,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-04-30",
+    "USDINR": 43.7,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-05-31",
+    "USDINR": 44.65,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-06-30",
+    "USDINR": 44.7,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-07-31",
+    "USDINR": 45.15,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-08-31",
+    "USDINR": 45.9,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-09-30",
+    "USDINR": 46.06,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-10-31",
+    "USDINR": 46.9,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-11-30",
+    "USDINR": 46.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2000-12-31",
+    "USDINR": 46.75,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-01-31",
+    "USDINR": 46.44,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-02-28",
+    "USDINR": 46.59,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-03-31",
+    "USDINR": 46.85,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-04-30",
+    "USDINR": 46.88,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-05-31",
+    "USDINR": 47.0,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-06-30",
+    "USDINR": 47.09,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-07-31",
+    "USDINR": 47.18,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-08-31",
+    "USDINR": 47.17,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-09-30",
+    "USDINR": 47.9,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-10-31",
+    "USDINR": 48.04,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-11-30",
+    "USDINR": 47.98,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2001-12-31",
+    "USDINR": 48.27,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-01-31",
+    "USDINR": 48.56,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-02-28",
+    "USDINR": 48.76,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-03-31",
+    "USDINR": 48.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-04-30",
+    "USDINR": 48.98,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-05-31",
+    "USDINR": 49.06,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-06-30",
+    "USDINR": 48.91,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-07-31",
+    "USDINR": 48.69,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-08-31",
+    "USDINR": 48.52,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-09-30",
+    "USDINR": 48.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-10-31",
+    "USDINR": 48.39,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-11-30",
+    "USDINR": 48.36,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2002-12-31",
+    "USDINR": 48.0,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-01-31",
+    "USDINR": 47.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-02-28",
+    "USDINR": 47.66,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-03-31",
+    "USDINR": 47.53,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-04-30",
+    "USDINR": 47.37,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-05-31",
+    "USDINR": 47.07,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-06-30",
+    "USDINR": 46.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-07-31",
+    "USDINR": 46.15,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-08-31",
+    "USDINR": 45.88,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-09-30",
+    "USDINR": 45.78,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-10-31",
+    "USDINR": 45.33,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-11-30",
+    "USDINR": 45.82,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2003-12-31",
+    "USDINR": 45.55,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-01-31",
+    "USDINR": 45.32,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-02-29",
+    "USDINR": 45.32,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-03-31",
+    "USDINR": 43.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-04-30",
+    "USDINR": 44.52,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-05-31",
+    "USDINR": 45.42,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-06-30",
+    "USDINR": 45.99,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-07-31",
+    "USDINR": 46.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-08-31",
+    "USDINR": 46.35,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-09-30",
+    "USDINR": 45.91,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-10-31",
+    "USDINR": 45.3,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-11-30",
+    "USDINR": 44.47,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2004-12-31",
+    "USDINR": 43.27,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-01-31",
+    "USDINR": 43.6,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-02-28",
+    "USDINR": 43.57,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-03-31",
+    "USDINR": 43.62,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-04-30",
+    "USDINR": 43.48,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-05-31",
+    "USDINR": 43.62,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-06-30",
+    "USDINR": 43.51,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-07-31",
+    "USDINR": 43.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-08-31",
+    "USDINR": 44.0,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-09-30",
+    "USDINR": 43.94,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-10-31",
+    "USDINR": 45.09,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-11-30",
+    "USDINR": 45.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2005-12-31",
+    "USDINR": 44.95,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-01-31",
+    "USDINR": 43.96,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-02-28",
+    "USDINR": 44.21,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-03-31",
+    "USDINR": 44.48,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-04-30",
+    "USDINR": 44.86,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-05-31",
+    "USDINR": 46.22,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-06-30",
+    "USDINR": 45.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-07-31",
+    "USDINR": 46.49,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-08-31",
+    "USDINR": 46.43,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-09-30",
+    "USDINR": 45.95,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-10-31",
+    "USDINR": 44.9,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-11-30",
+    "USDINR": 44.59,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2006-12-31",
+    "USDINR": 44.11,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-01-31",
+    "USDINR": 44.07,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-02-28",
+    "USDINR": 44.08,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-03-31",
+    "USDINR": 43.1,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-04-30",
+    "USDINR": 41.04,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-05-31",
+    "USDINR": 40.36,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-06-30",
+    "USDINR": 40.58,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-07-31",
+    "USDINR": 40.18,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-08-31",
+    "USDINR": 40.63,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-09-30",
+    "USDINR": 39.75,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-10-31",
+    "USDINR": 39.26,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-11-30",
+    "USDINR": 39.52,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2007-12-31",
+    "USDINR": 39.41,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-01-31",
+    "USDINR": 39.31,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-02-29",
+    "USDINR": 39.96,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-03-31",
+    "USDINR": 40.02,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-04-30",
+    "USDINR": 40.45,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-05-31",
+    "USDINR": 42.15,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-06-30",
+    "USDINR": 42.93,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-07-31",
+    "USDINR": 42.47,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-08-31",
+    "USDINR": 43.25,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-09-30",
+    "USDINR": 46.45,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-10-31",
+    "USDINR": 49.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-11-30",
+    "USDINR": 49.55,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2008-12-31",
+    "USDINR": 48.58,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-01-31",
+    "USDINR": 48.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-02-28",
+    "USDINR": 50.88,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-03-31",
+    "USDINR": 50.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-04-30",
+    "USDINR": 49.7,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-05-31",
+    "USDINR": 47.11,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-06-30",
+    "USDINR": 47.74,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-07-31",
+    "USDINR": 47.91,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-08-31",
+    "USDINR": 48.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-09-30",
+    "USDINR": 48.09,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-10-31",
+    "USDINR": 46.9,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-11-30",
+    "USDINR": 46.44,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2009-12-31",
+    "USDINR": 46.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-01-31",
+    "USDINR": 46.08,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-02-28",
+    "USDINR": 46.05,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-03-31",
+    "USDINR": 44.95,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-04-30",
+    "USDINR": 44.2,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-05-31",
+    "USDINR": 46.31,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-06-30",
+    "USDINR": 46.41,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-07-31",
+    "USDINR": 46.35,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-08-31",
+    "USDINR": 47.02,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-09-30",
+    "USDINR": 44.56,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-10-31",
+    "USDINR": 44.44,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-11-30",
+    "USDINR": 45.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2010-12-31",
+    "USDINR": 44.8,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-01-31",
+    "USDINR": 45.92,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-02-28",
+    "USDINR": 45.18,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-03-31",
+    "USDINR": 44.54,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-04-30",
+    "USDINR": 44.24,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-05-31",
+    "USDINR": 45.04,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-06-30",
+    "USDINR": 44.59,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-07-31",
+    "USDINR": 44.2,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-08-31",
+    "USDINR": 45.79,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-09-30",
+    "USDINR": 49.05,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-10-31",
+    "USDINR": 48.67,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-11-30",
+    "USDINR": 52.12,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2011-12-31",
+    "USDINR": 53.01,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-01-31",
+    "USDINR": 49.54,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-02-29",
+    "USDINR": 48.99,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-03-31",
+    "USDINR": 50.89,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-04-30",
+    "USDINR": 52.65,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-05-31",
+    "USDINR": 56.38,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-06-30",
+    "USDINR": 55.57,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-07-31",
+    "USDINR": 55.55,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-08-31",
+    "USDINR": 55.52,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-09-30",
+    "USDINR": 52.92,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-10-31",
+    "USDINR": 53.8,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-11-30",
+    "USDINR": 54.26,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2012-12-31",
+    "USDINR": 54.86,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-01-31",
+    "USDINR": 53.32,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-02-28",
+    "USDINR": 54.37,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-03-31",
+    "USDINR": 54.52,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-04-30",
+    "USDINR": 53.68,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-05-31",
+    "USDINR": 56.5,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-06-30",
+    "USDINR": 59.52,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-07-31",
+    "USDINR": 60.77,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-08-31",
+    "USDINR": 65.71,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-09-30",
+    "USDINR": 62.58,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-10-31",
+    "USDINR": 61.61,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-11-30",
+    "USDINR": 62.39,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2013-12-31",
+    "USDINR": 61.92,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-01-31",
+    "USDINR": 62.63,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-02-28",
+    "USDINR": 61.78,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-03-31",
+    "USDINR": 60.0,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-04-30",
+    "USDINR": 60.21,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-05-31",
+    "USDINR": 59.16,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-06-30",
+    "USDINR": 60.06,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-07-31",
+    "USDINR": 60.55,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-08-31",
+    "USDINR": 61.51,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-09-30",
+    "USDINR": 61.92,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-10-31",
+    "USDINR": 61.44,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-11-30",
+    "USDINR": 62.2,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2014-12-31",
+    "USDINR": 63.04,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-01-31",
+    "USDINR": 62.01,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-02-28",
+    "USDINR": 61.67,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-03-31",
+    "USDINR": 62.31,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-04-30",
+    "USDINR": 63.58,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-05-31",
+    "USDINR": 63.71,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-06-30",
+    "USDINR": 63.59,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-07-31",
+    "USDINR": 63.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-08-31",
+    "USDINR": 66.39,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-09-30",
+    "USDINR": 65.5,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-10-31",
+    "USDINR": 65.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-11-30",
+    "USDINR": 66.43,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2015-12-31",
+    "USDINR": 66.19,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-01-31",
+    "USDINR": 67.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-02-29",
+    "USDINR": 68.21,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-03-31",
+    "USDINR": 66.25,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-04-30",
+    "USDINR": 66.39,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-05-31",
+    "USDINR": 67.12,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-06-30",
+    "USDINR": 67.51,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-07-31",
+    "USDINR": 66.77,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-08-31",
+    "USDINR": 66.94,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-09-30",
+    "USDINR": 66.58,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-10-31",
+    "USDINR": 66.72,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-11-30",
+    "USDINR": 68.56,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2016-12-31",
+    "USDINR": 67.92,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-01-31",
+    "USDINR": 67.48,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-02-28",
+    "USDINR": 66.67,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-03-31",
+    "USDINR": 64.85,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-04-30",
+    "USDINR": 64.27,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-05-31",
+    "USDINR": 64.5,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-06-30",
+    "USDINR": 64.62,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-07-31",
+    "USDINR": 64.18,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-08-31",
+    "USDINR": 63.93,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-09-30",
+    "USDINR": 65.3,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-10-31",
+    "USDINR": 64.75,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-11-30",
+    "USDINR": 64.46,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2017-12-31",
+    "USDINR": 63.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-01-31",
+    "USDINR": 63.58,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-02-28",
+    "USDINR": 65.2,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-03-31",
+    "USDINR": 65.11,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-04-30",
+    "USDINR": 66.5,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-05-31",
+    "USDINR": 67.4,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-06-30",
+    "USDINR": 68.46,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-07-31",
+    "USDINR": 68.54,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-08-31",
+    "USDINR": 71.0,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-09-30",
+    "USDINR": 72.54,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-10-31",
+    "USDINR": 73.95,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-11-30",
+    "USDINR": 69.62,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2018-12-31",
+    "USDINR": 69.58,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-01-31",
+    "USDINR": 70.94,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-02-28",
+    "USDINR": 70.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-03-31",
+    "USDINR": 69.16,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-04-30",
+    "USDINR": 69.64,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-05-31",
+    "USDINR": 69.63,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-06-30",
+    "USDINR": 68.92,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-07-31",
+    "USDINR": 68.81,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-08-31",
+    "USDINR": 71.45,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-09-30",
+    "USDINR": 70.64,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-10-31",
+    "USDINR": 71.01,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-11-30",
+    "USDINR": 71.75,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2019-12-31",
+    "USDINR": 71.36,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-01-31",
+    "USDINR": 71.53,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-02-29",
+    "USDINR": 72.53,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-03-31",
+    "USDINR": 75.39,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-04-30",
+    "USDINR": 75.08,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-05-31",
+    "USDINR": 75.59,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-06-30",
+    "USDINR": 75.53,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-07-31",
+    "USDINR": 74.9,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-08-31",
+    "USDINR": 73.25,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-09-30",
+    "USDINR": 73.54,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-10-31",
+    "USDINR": 74.59,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-11-30",
+    "USDINR": 74.01,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2020-12-31",
+    "USDINR": 73.01,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-01-31",
+    "USDINR": 72.84,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-02-28",
+    "USDINR": 73.92,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-03-31",
+    "USDINR": 73.14,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-04-30",
+    "USDINR": 74.0,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-05-31",
+    "USDINR": 72.42,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-06-30",
+    "USDINR": 74.33,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-07-31",
+    "USDINR": 74.34,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-08-31",
+    "USDINR": 72.95,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-09-30",
+    "USDINR": 74.16,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-10-31",
+    "USDINR": 75.0,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-11-30",
+    "USDINR": 75.1,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2021-12-31",
+    "USDINR": 74.39,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-01-31",
+    "USDINR": 74.6,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-02-28",
+    "USDINR": 75.49,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-03-31",
+    "USDINR": 75.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-04-30",
+    "USDINR": 76.48,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-05-31",
+    "USDINR": 77.59,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-06-30",
+    "USDINR": 79.02,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-07-31",
+    "USDINR": 79.33,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-08-31",
+    "USDINR": 79.45,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-09-30",
+    "USDINR": 81.37,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-10-31",
+    "USDINR": 82.73,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-11-30",
+    "USDINR": 81.43,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2022-12-31",
+    "USDINR": 82.72,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-01-31",
+    "USDINR": 81.69,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-02-28",
+    "USDINR": 82.57,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-03-31",
+    "USDINR": 82.19,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-04-30",
+    "USDINR": 81.84,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-05-31",
+    "USDINR": 82.68,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-06-30",
+    "USDINR": 82.06,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-07-31",
+    "USDINR": 82.24,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-08-31",
+    "USDINR": 82.78,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-09-30",
+    "USDINR": 83.08,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-10-31",
+    "USDINR": 83.26,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-11-30",
+    "USDINR": 83.36,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2023-12-31",
+    "USDINR": 83.19,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-01-31",
+    "USDINR": 83.02,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-02-29",
+    "USDINR": 82.87,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-03-31",
+    "USDINR": 83.34,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-04-30",
+    "USDINR": 83.44,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-05-31",
+    "USDINR": 83.43,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-06-30",
+    "USDINR": 83.33,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-07-31",
+    "USDINR": 83.73,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-08-31",
+    "USDINR": 83.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-09-30",
+    "USDINR": 83.76,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-10-31",
+    "USDINR": 84.06,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-11-30",
+    "USDINR": 84.48,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2024-12-31",
+    "USDINR": 85.55,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-01-31",
+    "USDINR": 86.54,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-02-28",
+    "USDINR": 87.5,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-03-31",
+    "USDINR": 85.43,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-04-30",
+    "USDINR": 84.49,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-05-31",
+    "USDINR": 85.5,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-06-30",
+    "USDINR": 85.74,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-07-31",
+    "USDINR": 87.6,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-08-31",
+    "USDINR": 88.18,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-09-30",
+    "USDINR": 88.78,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-10-31",
+    "USDINR": 88.75,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-11-30",
+    "USDINR": 89.43,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2025-12-31",
+    "USDINR": 89.84,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2026-01-31",
+    "USDINR": 91.98,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2026-02-28",
+    "USDINR": 91.03,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2026-03-31",
+    "USDINR": 93.83,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2026-04-30",
+    "USDINR": 94.91,
+    "Source": "FRED_DEXINUS"
+  },
+  {
+    "Date": "2026-05-31",
+    "USDINR": 94.9,
+    "Source": "FRED_DEXINUS"
+  }
+]

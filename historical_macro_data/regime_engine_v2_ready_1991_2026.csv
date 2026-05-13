@@ -1,0 +1,902 @@
+Date,Year,Month,Value,Indicator,Source,Frequency,File,Original_Indicator
+2012-13,2012,,5.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,1.1 GDP
+2011-12,2011,,5.1,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,1.1 GDP
+2012-13,2012,,5.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,1.1 GDP
+2013-14,2013,,4.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,1.1 GDP
+2012-13,2012,,1.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,1.2 Index of Industrial Production
+2011-12,2011,,-2.0,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,1.2 Index of Industrial Production
+2012-13,2012,,-0.1,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,1.2 Index of Industrial Production
+2012-13,2012,,14.2,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.1 Deposits
+2011-12,2011,,13.5,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.1 Deposits
+2012-13,2012,,13.9,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.1 Deposits
+2013-14,2013,,13.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.1 Deposits
+2012-13,2012,,14.1,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2 Credit
+2011-12,2011,,16.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2 Credit
+2012-13,2012,,17.3,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2 Credit
+2013-14,2013,,14.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2 Credit
+2012-13,2012,,14.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2.1 Non-food Credit
+2011-12,2011,,16.1,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2.1 Non-food Credit
+2012-13,2012,,16.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2.1 Non-food Credit
+2013-14,2013,,15.1,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.1.2.1 Non-food Credit
+2012-13,2012,,6.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.1 Reserve Money (M0)
+2011-12,2011,,7.8,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.1 Reserve Money (M0)
+2012-13,2012,,6.6,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.1 Reserve Money (M0)
+2013-14,2013,,6.8,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.1 Reserve Money (M0)
+2012-13,2012,,13.8,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.2 Broad Money (M3)
+2011-12,2011,,15.8,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.2 Broad Money (M3)
+2012-13,2012,,14.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.2 Broad Money (M3)
+2013-14,2013,,12.5,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,2.2.2 Broad Money (M3)
+2012-13,2012,,77.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.4 Credit-Deposit Ratio
+2011-12,2011,,76.4,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.4 Credit-Deposit Ratio
+2012-13,2012,,75.3,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.4 Credit-Deposit Ratio
+2013-14,2013,,76.3,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.4 Credit-Deposit Ratio
+2012-13,2012,,77.1,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.5 Incremental Credit-Deposit Ratio
+2011-12,2011,,46.7,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.5 Incremental Credit-Deposit Ratio
+2012-13,2012,,27.4,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.5 Incremental Credit-Deposit Ratio
+2013-14,2013,,43.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_10092013.xls,3.5 Incremental Credit-Deposit Ratio
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3898958.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,4162509.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,277.1,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,286.1,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,316.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,(b) M3
+2009-10,2009,,5599762.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS0211.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,162.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,7. Aggregate Deposits (5)
+2011-12,2011,,59036.6,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,8. Bank Credit (5)
+2011-12,2011,,46116.3,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,(b) M3
+2010-11,2010,,65041.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,(b) M3
+2011-12,2011,,73440.7,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BCS090512.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,4162509.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,145.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.4,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,7. Aggregate Deposits (5)
+2010-11,2010,,5207969.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,8. Bank Credit (5)
+2010-11,2010,,3942083.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,(b) M3
+2009-10,2009,,5602731.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,(b) M3
+2010-11,2010,,6499548.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL081111S.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,4162509.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,145.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.4,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,7. Aggregate Deposits (5)
+2010-11,2010,,5207969.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,8. Bank Credit (5)
+2010-11,2010,,3942083.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,(b) M3
+2009-10,2009,,5602731.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,(b) M3
+2010-11,2010,,6499548.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL090811.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,3. General Index of  Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,3. General Index of  Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,3. General Index of  Industrial Production (1)
+2009-10,2009,,304.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,3. General Index of  Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,(b) M3
+2009-10,2009,,5599762.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BL091010.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,162.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,3. General Index of Industrial Production (1)
+2011-12,2011,,170.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,7. Aggregate Deposits (5)
+2011-12,2011,,59090.8,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,8. Bank Credit (5)
+2011-12,2011,,46118.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,(b) M3
+2010-11,2010,,65041.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,(b) M3
+2011-12,2011,,73440.7,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLJ080612.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,4162509.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,145.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.4,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,7. Aggregate Deposits (5)
+2010-11,2010,,5207969.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,8. Bank Credit (5)
+2010-11,2010,,3942083.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,(b) M3
+2009-10,2009,,5602731.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,(b) M3
+2010-11,2010,,6499548.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS071011F.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,304.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,(b) M3
+2009-10,2009,,5599762.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BLS1110.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,41625.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,145.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,162.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,7. Aggregate Deposits (5)
+2008-09,2008,,38341.1,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,8. Bank Credit (5)
+2008-09,2008,,27755.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,(b) M3
+2008-09,2008,,47947.8,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,(b) M3
+2010-11,2010,,64994.9,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL090412.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,41625.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,145.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,7. Aggregate Deposits (5)
+2008-09,2008,,38341.1,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,8. Bank Credit (5)
+2008-09,2008,,27755.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,(b) M3
+2008-09,2008,,47947.8,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,(b) M3
+2010-11,2010,,64994.9,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100212.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,3. General Index of Industrial Production (1)
+2011-12,2011,,170.3,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,7. Aggregate Deposits (5)
+2011-12,2011,,59090.8,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,8. Bank Credit (5)
+2011-12,2011,,46118.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,(b) M3
+2010-11,2010,,65041.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,(b) M3
+2011-12,2011,,73592.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL100912.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+2008-09,2008,,41625.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,3. General Index of Industrial Production(1)
+2008-09,2008,,145.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,3. General Index of Industrial Production(1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,3. General Index of Industrial Production(1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,3. General Index of Industrial Production(1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,7. Aggregate Deposits (5)
+2008-09,2008,,38341.1,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,8. Bank Credit (5)
+2008-09,2008,,27755.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,(b) M3
+2008-09,2008,,47947.8,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,(b) M3
+2010-11,2010,,64994.9,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_BUL120312.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,286.1,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,316.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS071210.xls,8. Bank Credit (5)
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,1. Gross Domestic Productat Factor Cost (at 2004-05 prices)
+2007-08,2007,,3898958.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,1. Gross Domestic Productat Factor Cost (at 2004-05 prices)
+2008-09,2008,,4162509.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,1. Gross Domestic Productat Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,277.1,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,286.1,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,316.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,(b) M3
+2009-10,2009,,5599762.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS090411.xls,(b) M3
+1990-91,1990,,10836.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,41625.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,145.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,7. Aggregate Deposits (5)
+2008-09,2008,,38341.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52080.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,8. Bank Credit (5)
+2008-09,2008,,27755.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,8. Bank Credit (5)
+2009-10,2009,,32448.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,8. Bank Credit (5)
+2010-11,2010,,39421.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,8. Bank Credit (5)
+1990-91,1990,,2658.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,(b) M3
+2008-09,2008,,47948.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,(b) M3
+2010-11,2010,,64995.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100112B.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,4162509.0,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,286.1,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,316.2,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,7. Aggregate Deposits (5)
+2010-11,2010,,5204703.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,8. Bank Credit (5)
+2010-11,2010,,3938659.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,(b) M3
+2009-10,2009,,5602731.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,(b) M3
+2010-11,2010,,6491756.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CS100511.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,3. General Index of Industrial Production (1)
+2011-12,2011,,170.3,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,7. Aggregate Deposits (5)
+2011-12,2011,,59090.8,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,8. Bank Credit (5)
+2011-12,2011,,46118.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,(b) M3
+2010-11,2010,,65041.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,(b) M3
+2011-12,2011,,73592.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL091112.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,3. General Index of Industrial Production (1)
+2011-12,2011,,170.3,IIP,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,7. Aggregate Deposits (5)
+2011-12,2011,,59090.8,Deposits,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,8. Bank Credit (5)
+2011-12,2011,,46118.5,Credit,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,(b) M3
+2010-11,2010,,65041.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,(b) M3
+2011-12,2011,,73592.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,01T_CSBL101212.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,304.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BU090810_F.xls,8. Bank Credit (5)
+1990-91 ,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,1. Gross Domestic Product at Factor Cost (at 1999-00 prices)
+2006-07 ,2006,,2871120.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,1. Gross Domestic Product at Factor Cost (at 1999-00 prices)
+1990-91 ,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,3. General Index of  Industrial Production (1)
+2006-07 ,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,3. General Index of  Industrial Production (1)
+2007-08 ,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,3. General Index of  Industrial Production (1)
+2008-09 ,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,3. General Index of  Industrial Production (1)
+1990-91 ,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,7. Aggregate Deposits (5)
+2006-07 ,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,7. Aggregate Deposits (5)
+2007-08 ,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,7. Aggregate Deposits (5)
+2008-09 ,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,7. Aggregate Deposits (5)
+1990-91 ,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,8. Bank Credit (5)
+2006-07 ,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,8. Bank Credit (5)
+2007-08 ,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,8. Bank Credit (5)
+2008-09 ,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUF090210.xls,8. Bank Credit (5)
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,277.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,286.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,316.2,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL070111.xls,8. Bank Credit (5)
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,3. General Index of Industrial Production (1)
+2011-12,2011,,170.2,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,7. Aggregate Deposits (5)
+2011-12,2011,,59090.8,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,8. Bank Credit (5)
+2011-12,2011,,46118.5,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,(b) M3
+2010-11,2010,,65041.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,(b) M3
+2011-12,2011,,73592.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL080812F.xls,(b) M3
+1990-91,1990,,13478.9,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2009-10,2009,,45076.4,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,152.9,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,3. General Index of Industrial Production (1)
+2010-11,2010,,165.5,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,3. General Index of Industrial Production (1)
+2011-12,2011,,170.3,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,1925.4,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,7. Aggregate Deposits (5)
+2009-10,2009,,44928.3,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,7. Aggregate Deposits (5)
+2010-11,2010,,52079.7,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,7. Aggregate Deposits (5)
+2011-12,2011,,59090.8,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,7. Aggregate Deposits (5)
+1990-91,1990,,1163.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,8. Bank Credit (5)
+2009-10,2009,,32447.9,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,8. Bank Credit (5)
+2010-11,2010,,39420.8,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,8. Bank Credit (5)
+2011-12,2011,,46118.5,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,8. Bank Credit (5)
+1990-91,1990,,2658.3,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,(b) M3
+2009-10,2009,,56027.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,(b) M3
+2010-11,2010,,65041.2,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,(b) M3
+2011-12,2011,,73592.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL101012F.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,304.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,(b) M3
+2008-09,2008,,4777069.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,(b) M3
+2009-10,2009,,5579567.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_BUL110610.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4486574.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,8. Bank Credit (5)
+2009-10,2009,,3240399.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CBL080510.xls,8. Bank Credit (5)
+1990-91 ,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+2006-07 ,2006,,2871120.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+2007-08 ,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,1. Gross Domestic Product at  Factor Cost (at 2004-05 prices)
+1990-91 ,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,3. General Index of  Industrial Production (1)
+2006-07 ,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,3. General Index of  Industrial Production (1)
+2007-08 ,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,3. General Index of  Industrial Production (1)
+2008-09 ,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,3. General Index of  Industrial Production (1)
+1990-91 ,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,7. Aggregate Deposits (5)
+2006-07 ,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,7. Aggregate Deposits (5)
+2007-08 ,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,7. Aggregate Deposits (5)
+2008-09 ,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,7. Aggregate Deposits (5)
+1990-91 ,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,8. Bank Credit (5)
+2006-07 ,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,8. Bank Credit (5)
+2007-08 ,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,8. Bank Credit (5)
+2008-09 ,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS090410.xls,8. Bank Credit (5)
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,304.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,(b) M3
+2009-10,2009,,5599762.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CS100710.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,1. Gross Domestic Product at Factor Cost (at 1999-00 prices)
+2006-07,2006,,2871120.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,1. Gross Domestic Product at Factor Cost (at 1999-00 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,3. General Index of Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,7. Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,8. Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSB1209.xls,8. Bank Credit (5)
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2006-07,2006,,2871120.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,3. General Index of Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,7. Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,8. Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CSM080310.xls,8. Bank Credit (5)
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3898958.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2008-09,2008,,4162509.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,277.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,286.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,316.2,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,(b) M3
+2009-10,2009,,5599762.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_CTSM0311.xls,(b) M3
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,3. General Index of Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,7. Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,8. Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,(b) M3
+2006-07,2006,,3310068.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,(b) M3
+2008-09,2008,,4764019.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_EBU70110.xls,(b) M3
+1990-91,1990,,1083572.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+2007-08,2007,,3893457.0,GDP,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,1. Gross Domestic Product at Factor Cost (at 2004-05 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,3. General Index of Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,3. General Index of Industrial Production (1)
+2008-09,2008,,275.4,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,3. General Index of Industrial Production (1)
+2009-10,2009,,304.2,IIP,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,3. General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,7. Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,7. Aggregate Deposits (5)
+2008-09,2008,,3834110.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,7. Aggregate Deposits (5)
+2009-10,2009,,4492826.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,7. Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,8. Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,8. Bank Credit (5)
+2008-09,2008,,2775549.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,8. Bank Credit (5)
+2009-10,2009,,3244788.0,Credit,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,8. Bank Credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,(b) M3
+2007-08,2007,,4017883.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,(b) M3
+2008-09,2008,,4794812.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,(b) M3
+2009-10,2009,,5599762.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,1T_SEP090910.xls,(b) M3
+2025-26,2025,,7.8,GDP,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1 GVA at Basic Prices
+2024-25,2024,,6.5,GDP,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1 GVA at Basic Prices
+2025-26,2025,,8.6,GDP,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1 GVA at Basic Prices
+2025-26,2025,,2.5,Agriculture,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.1 Agriculture
+2024-25,2024,,4.1,Agriculture,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.1 Agriculture
+2025-26,2025,,2.3,Agriculture,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.1 Agriculture
+2025-26,2025,,10.2,Industry,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.2 Industry
+2024-25,2024,,4.6,Industry,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.2 Industry
+2025-26,2025,,11.4,Industry,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.2 Industry
+2025-26,2025,,8.6,Services,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.3 Services
+2024-25,2024,,7.8,Services,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.3 Services
+2025-26,2025,,9.2,Services,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.1.3 Services
+2025-26,2025,,4.0,IIP,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.2 Index of Industrial Production
+2024-25,2024,,3.7,IIP,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.2 Index of Industrial Production
+2025-26,2025,,8.0,IIP,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,1.2 Index of Industrial Production
+2025-26,2025,,10.3,Deposits,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.1 Deposits
+2024-25,2024,,9.8,Deposits,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.1 Deposits
+2025-26,2025,,12.7,Deposits,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.1 Deposits
+2025-26,2025,,11.0,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.2 Credit #
+2024-25,2024,,11.2,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.2 Credit #
+2025-26,2025,,14.5,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.2 Credit #
+2025-26,2025,,11.0,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.2.1 Non-food Credit #
+2024-25,2024,,11.1,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.2.1 Non-food Credit #
+2025-26,2025,,14.4,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.1.2.1 Non-food Credit #
+2025-26,2025,,4.3,Reserve_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.2.1 Reserve Money (M0)
+2024-25,2024,,4.9,Reserve_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.2.1 Reserve Money (M0)
+2025-26,2025,,2.9,Reserve_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.2.1 Reserve Money (M0)
+2025-26,2025,,9.4,Broad_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.2.2 Broad Money (M3)
+2024-25,2024,,9.0,Broad_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.2.2 Broad Money (M3)
+2025-26,2025,,12.1,Broad_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,2.2.2 Broad Money (M3)
+2025-26,2025,,80.8,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,3.4 Credit-Deposit Ratio
+2024-25,2024,,80.4,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,3.4 Credit-Deposit Ratio
+2025-26,2025,,81.8,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,3.4 Credit-Deposit Ratio
+2025-26,2025,,86.1,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,3.5 Incremental Credit-Deposit Ratio #
+2024-25,2024,,82.6,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,3.5 Incremental Credit-Deposit Ratio #
+2025-26,2025,,91.3,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_001.xlsx,3.5 Incremental Credit-Deposit Ratio #
+2012-13,2012,,5.0,GDP,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1 GDP
+2011-12,2011,,5.1,GDP,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1 GDP
+2012-13,2012,,5.4,GDP,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1 GDP
+2013-14,2013,,4.4,GDP,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1 GDP
+2012-13,2012,,1.9,Agriculture,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.1 Agriculture
+2011-12,2011,,2.0,Agriculture,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.1 Agriculture
+2012-13,2012,,2.9,Agriculture,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.1 Agriculture
+2013-14,2013,,2.7,Agriculture,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.1 Agriculture
+2012-13,2012,,1.2,Industry,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.2 Industry
+2011-12,2011,,1.0,Industry,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.2 Industry
+2012-13,2012,,-0.2,Industry,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.2 Industry
+2013-14,2013,,-0.9,Industry,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.2 Industry
+2012-13,2012,,6.8,Services,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.3 Services
+2011-12,2011,,7.0,Services,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.3 Services
+2012-13,2012,,7.6,Services,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.3 Services
+2013-14,2013,,6.2,Services,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.1.3 Services
+2012-13,2012,,1.2,IIP,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.2 Index of Industrial Production
+2011-12,2011,,-2.0,IIP,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.2 Index of Industrial Production
+2012-13,2012,,-0.1,IIP,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,1.2 Index of Industrial Production
+2012-13,2012,,14.2,Deposits,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.1 Deposits
+2011-12,2011,,13.5,Deposits,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.1 Deposits
+2012-13,2012,,13.9,Deposits,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.1 Deposits
+2013-14,2013,,13.4,Deposits,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.1 Deposits
+2012-13,2012,,14.1,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2 Credit
+2011-12,2011,,16.5,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2 Credit
+2012-13,2012,,17.3,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2 Credit
+2013-14,2013,,14.9,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2 Credit
+2012-13,2012,,14.0,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2.1 Non-food Credit
+2011-12,2011,,16.1,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2.1 Non-food Credit
+2012-13,2012,,16.9,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2.1 Non-food Credit
+2013-14,2013,,15.1,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.1.2.1 Non-food Credit
+2012-13,2012,,6.2,Reserve_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.1 Reserve Money (M0)
+2011-12,2011,,7.8,Reserve_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.1 Reserve Money (M0)
+2012-13,2012,,6.6,Reserve_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.1 Reserve Money (M0)
+2013-14,2013,,6.8,Reserve_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.1 Reserve Money (M0)
+2012-13,2012,,13.8,Broad_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.2 Broad Money (M3)
+2011-12,2011,,15.8,Broad_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.2 Broad Money (M3)
+2012-13,2012,,14.0,Broad_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.2 Broad Money (M3)
+2013-14,2013,,12.5,Broad_Money,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,2.2.2 Broad Money (M3)
+2012-13,2012,,77.9,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.4 Credit-Deposit Ratio
+2011-12,2011,,76.4,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.4 Credit-Deposit Ratio
+2012-13,2012,,75.3,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.4 Credit-Deposit Ratio
+2013-14,2013,,76.3,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.4 Credit-Deposit Ratio
+2012-13,2012,,77.1,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.5 Incremental Credit-Deposit Ratio
+2011-12,2011,,46.7,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.5 Incremental Credit-Deposit Ratio
+2012-13,2012,,27.4,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.5 Incremental Credit-Deposit Ratio
+2013-14,2013,,43.0,Credit,RBI_Bulletin_Historical,Annual,RBI_Econ_Hist_001.xlsx,3.5 Incremental Credit-Deposit Ratio
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Industrial Production (1)
+2003-04,2003,,189.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Aggregate deposits (5)
+2003-04,2003,,1504416.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Bank credit (5)
+2003-04,2003,,840785.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,Bank credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,(b)M3
+2003-04,2003,,1988415.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,(b)M3
+2004-05,2004,,2230675.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,(b)M3
+2005-06,2005,,2729535.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0107.xls,(b)M3
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Aggregate Deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Aggregate Deposits (5)
+2006-07,2006,,2608309.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Bank Credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Bank Credit (5)
+2006-07,2006,,1928913.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0108.xls,Bank Credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0109.xls,Bank Credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Aggregate Deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Aggregate Deposits (5)
+2006-07,2006,,2608309.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Bank Credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Bank Credit (5)
+2006-07,2006,,1928913.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0208.xls,Bank Credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Industrial Production (1)
+2006-07,2006,,243.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Aggregate deposits (5)
+2006-07,2006,,2594259.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Bank credit (5)
+2006-07,2006,,1923192.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0307.xls,Bank credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Industrial Production (1)
+2006-07,2006,,247.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Aggregate deposits (5)
+2006-07,2006,,2608309.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Bank credit (5)
+2006-07,2006,,1928913.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0507.xls,Bank credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Industrial Production (1)
+2006-07,2006,,246.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Aggregate deposits (5)
+2006-07,2006,,2594259.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Bank credit (5)
+2006-07,2006,,1923192.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,Bank credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,(b)M3
+2004-05,2004,,2230675.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,(b)M3
+2005-06,2005,,2729547.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,(b)M3
+2006-07,2006,,3296919.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0607.xls,(b)M3
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Industrial Production (1)
+2007-08,2007,,267.2,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Aggregate Deposits (5)
+2007-08,2007,,3192141.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Bank Credit (5)
+2007-08,2007,,2348493.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0608.xls,Bank Credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Industrial Production (1)
+2007-08,2007,,267.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0708.xls,Bank Credit (5)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Industrial Production (1)
+2006-07,2006,,247.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Industrial Production (1)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Aggregate deposits (5)
+2006-07,2006,,2608309.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Aggregate deposits (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Bank credit (5)
+2006-07,2006,,1928913.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0807.xls,Bank credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Industrial Production (1)
+2007-08,2007,,267.7,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0808.xls,Bank Credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Industrial Production (1)
+2006-07,2006,,247.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Aggregate deposits (5)
+2006-07,2006,,2608309.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Bank credit (5)
+2006-07,2006,,1928913.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS0907.xls,Bank credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Industrial Production (1)
+2006-07,2006,,247.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Aggregate deposits (5)
+2006-07,2006,,2608309.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Bank credit (5)
+2006-07,2006,,1928913.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1007.xls,Bank credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1008.xls,Bank Credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Industrial Production (1)
+2003-04,2003,,189.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Aggregate deposits (5)
+2003-04,2003,,1504416.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Bank credit (5)
+2003-04,2003,,840785.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1106.xls,Bank credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Industrial Production (1)
+2006-07,2006,,247.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Aggregate deposits (5)
+2006-07,2006,,2608309.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Bank credit (5)
+2006-07,2006,,1928913.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1107.xls,Bank credit (5)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1108.xls,Bank Credit (5)
+2003-04,2003,,2226041.0,GDP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Gross Domestic Product at Factor Cost (at 1999-00 prices)
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,General Index of Industrial Production (1)
+2003-04,2003,,189.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,General Index of Industrial Production (1)
+2004-05,2004,,204.8,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,General Index of Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,General Index of Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Aggregate deposits (5)
+2003-04,2003,,1504416.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Aggregate deposits (5)
+2004-05,2004,,1700198.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Aggregate deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Aggregate deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Bank credit (5)
+2003-04,2003,,840785.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Bank credit (5)
+2004-05,2004,,1100428.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Bank credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,Bank credit (5)
+1990-91,1990,,265828.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,(b)M3
+2003-04,2003,,1988415.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,(b)M3
+2004-05,2004,,2230675.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,(b)M3
+2005-06,2005,,2729535.0,Money_Supply,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1206.xls,(b)M3
+1990-91,1990,,212.6,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Industrial Production (1)
+2005-06,2005,,221.5,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Industrial Production (1)
+2006-07,2006,,247.1,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Industrial Production (1)
+2007-08,2007,,268.0,IIP,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Industrial Production (1)
+1990-91,1990,,192541.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Aggregate Deposits (5)
+2005-06,2005,,2109049.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Aggregate Deposits (5)
+2006-07,2006,,2611933.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Aggregate Deposits (5)
+2007-08,2007,,3196939.0,Deposits,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Aggregate Deposits (5)
+1990-91,1990,,116301.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Bank Credit (5)
+2005-06,2005,,1507077.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Bank Credit (5)
+2006-07,2006,,1931189.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Bank Credit (5)
+2007-08,2007,,2361914.0,Credit,RBI_Bulletin_T1_Legacy,Annual,T1_TCS1208.xls,Bank Credit (5)

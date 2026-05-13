@@ -1,0 +1,1682 @@
+[
+  {
+    "Date": "2006-03-31",
+    "Nifty_50": 781.28,
+    "Cyclicals": 737.25,
+    "Defensives": 786.0,
+    "VIX": 45.88
+  },
+  {
+    "Date": "2006-04-30",
+    "Nifty_50": 896.44,
+    "Cyclicals": 843.24,
+    "Defensives": 888.53,
+    "VIX": 10
+  },
+  {
+    "Date": "2006-05-31",
+    "Nifty_50": 932.75,
+    "Cyclicals": 913.6,
+    "Defensives": 936.94,
+    "VIX": 15.2
+  },
+  {
+    "Date": "2006-06-30",
+    "Nifty_50": 1017.31,
+    "Cyclicals": 967.88,
+    "Defensives": 1007.02,
+    "VIX": 14.13
+  },
+  {
+    "Date": "2006-07-31",
+    "Nifty_50": 973.76,
+    "Cyclicals": 943.19,
+    "Defensives": 960.72,
+    "VIX": 30.44
+  },
+  {
+    "Date": "2006-08-31",
+    "Nifty_50": 1086.91,
+    "Cyclicals": 1039.22,
+    "Defensives": 1055.39,
+    "VIX": 11.47
+  },
+  {
+    "Date": "2006-09-30",
+    "Nifty_50": 1150.61,
+    "Cyclicals": 1139.37,
+    "Defensives": 1142.33,
+    "VIX": 15.97
+  },
+  {
+    "Date": "2006-10-31",
+    "Nifty_50": 1164.48,
+    "Cyclicals": 1096.49,
+    "Defensives": 1189.52,
+    "VIX": 21.94
+  },
+  {
+    "Date": "2006-11-30",
+    "Nifty_50": 1132.65,
+    "Cyclicals": 1073.69,
+    "Defensives": 1130.26,
+    "VIX": 26.72
+  },
+  {
+    "Date": "2006-12-31",
+    "Nifty_50": 1208.34,
+    "Cyclicals": 1177.88,
+    "Defensives": 1168.53,
+    "VIX": 17.99
+  },
+  {
+    "Date": "2007-01-31",
+    "Nifty_50": 1097.84,
+    "Cyclicals": 1061.14,
+    "Defensives": 1084.47,
+    "VIX": 30.1
+  },
+  {
+    "Date": "2007-02-28",
+    "Nifty_50": 1064.22,
+    "Cyclicals": 1024.63,
+    "Defensives": 1066.43,
+    "VIX": 30.71
+  },
+  {
+    "Date": "2007-03-31",
+    "Nifty_50": 953.65,
+    "Cyclicals": 914.64,
+    "Defensives": 934.11,
+    "VIX": 38.12
+  },
+  {
+    "Date": "2007-04-30",
+    "Nifty_50": 973.41,
+    "Cyclicals": 932.21,
+    "Defensives": 967.23,
+    "VIX": 19.98
+  },
+  {
+    "Date": "2007-05-31",
+    "Nifty_50": 1027.35,
+    "Cyclicals": 1024.38,
+    "Defensives": 1010.67,
+    "VIX": 23.46
+  },
+  {
+    "Date": "2007-06-30",
+    "Nifty_50": 1040.87,
+    "Cyclicals": 978.39,
+    "Defensives": 1031.48,
+    "VIX": 23.58
+  },
+  {
+    "Date": "2007-07-31",
+    "Nifty_50": 1036.15,
+    "Cyclicals": 990.18,
+    "Defensives": 1033.34,
+    "VIX": 27.39
+  },
+  {
+    "Date": "2007-08-31",
+    "Nifty_50": 1087.11,
+    "Cyclicals": 1026.1,
+    "Defensives": 1104.36,
+    "VIX": 20.42
+  },
+  {
+    "Date": "2007-09-30",
+    "Nifty_50": 1294.85,
+    "Cyclicals": 1207.9,
+    "Defensives": 1269.79,
+    "VIX": 10
+  },
+  {
+    "Date": "2007-10-31",
+    "Nifty_50": 1322.87,
+    "Cyclicals": 1236.86,
+    "Defensives": 1290.32,
+    "VIX": 23.57
+  },
+  {
+    "Date": "2007-11-30",
+    "Nifty_50": 1225.91,
+    "Cyclicals": 1191.62,
+    "Defensives": 1226.47,
+    "VIX": 35.46
+  },
+  {
+    "Date": "2007-12-31",
+    "Nifty_50": 986.71,
+    "Cyclicals": 961.33,
+    "Defensives": 970.25,
+    "VIX": 44.09
+  },
+  {
+    "Date": "2008-01-31",
+    "Nifty_50": 935.33,
+    "Cyclicals": 942.84,
+    "Defensives": 926.9,
+    "VIX": 34.94
+  },
+  {
+    "Date": "2008-02-29",
+    "Nifty_50": 906.73,
+    "Cyclicals": 877.84,
+    "Defensives": 912.56,
+    "VIX": 30.11
+  },
+  {
+    "Date": "2008-03-31",
+    "Nifty_50": 989.74,
+    "Cyclicals": 984.18,
+    "Defensives": 979.99,
+    "VIX": 18.43
+  },
+  {
+    "Date": "2008-04-30",
+    "Nifty_50": 1028.19,
+    "Cyclicals": 1032.14,
+    "Defensives": 1015.44,
+    "VIX": 21.99
+  },
+  {
+    "Date": "2008-05-31",
+    "Nifty_50": 1070.31,
+    "Cyclicals": 1032.86,
+    "Defensives": 1059.0,
+    "VIX": 24.78
+  },
+  {
+    "Date": "2008-06-30",
+    "Nifty_50": 1029.84,
+    "Cyclicals": 988.31,
+    "Defensives": 1026.29,
+    "VIX": 34.52
+  },
+  {
+    "Date": "2008-07-31",
+    "Nifty_50": 1122.0,
+    "Cyclicals": 1097.15,
+    "Defensives": 1096.0,
+    "VIX": 14.53
+  },
+  {
+    "Date": "2008-08-31",
+    "Nifty_50": 1284.15,
+    "Cyclicals": 1253.63,
+    "Defensives": 1262.44,
+    "VIX": 10
+  },
+  {
+    "Date": "2008-09-30",
+    "Nifty_50": 1305.23,
+    "Cyclicals": 1283.26,
+    "Defensives": 1296.09,
+    "VIX": 19.21
+  },
+  {
+    "Date": "2008-10-31",
+    "Nifty_50": 1382.18,
+    "Cyclicals": 1345.64,
+    "Defensives": 1370.19,
+    "VIX": 21.26
+  },
+  {
+    "Date": "2008-11-30",
+    "Nifty_50": 1314.2,
+    "Cyclicals": 1262.59,
+    "Defensives": 1309.83,
+    "VIX": 31.15
+  },
+  {
+    "Date": "2008-12-31",
+    "Nifty_50": 1257.75,
+    "Cyclicals": 1227.97,
+    "Defensives": 1240.66,
+    "VIX": 31.62
+  },
+  {
+    "Date": "2009-01-31",
+    "Nifty_50": 1277.28,
+    "Cyclicals": 1202.61,
+    "Defensives": 1259.37,
+    "VIX": 20.73
+  },
+  {
+    "Date": "2009-02-28",
+    "Nifty_50": 1484.7,
+    "Cyclicals": 1412.0,
+    "Defensives": 1487.81,
+    "VIX": 11.52
+  },
+  {
+    "Date": "2009-03-31",
+    "Nifty_50": 1572.02,
+    "Cyclicals": 1529.09,
+    "Defensives": 1512.65,
+    "VIX": 23.52
+  },
+  {
+    "Date": "2009-04-30",
+    "Nifty_50": 1500.93,
+    "Cyclicals": 1447.18,
+    "Defensives": 1467.3,
+    "VIX": 32.84
+  },
+  {
+    "Date": "2009-05-31",
+    "Nifty_50": 1588.57,
+    "Cyclicals": 1529.4,
+    "Defensives": 1602.33,
+    "VIX": 14.71
+  },
+  {
+    "Date": "2009-06-30",
+    "Nifty_50": 1600.19,
+    "Cyclicals": 1510.33,
+    "Defensives": 1549.46,
+    "VIX": 29.71
+  },
+  {
+    "Date": "2009-07-31",
+    "Nifty_50": 1500.76,
+    "Cyclicals": 1455.72,
+    "Defensives": 1477.71,
+    "VIX": 28.04
+  },
+  {
+    "Date": "2009-08-31",
+    "Nifty_50": 1527.55,
+    "Cyclicals": 1409.75,
+    "Defensives": 1494.97,
+    "VIX": 24.08
+  },
+  {
+    "Date": "2009-09-30",
+    "Nifty_50": 1386.63,
+    "Cyclicals": 1370.1,
+    "Defensives": 1378.91,
+    "VIX": 35.66
+  },
+  {
+    "Date": "2009-10-31",
+    "Nifty_50": 1484.44,
+    "Cyclicals": 1434.66,
+    "Defensives": 1441.08,
+    "VIX": 19.64
+  },
+  {
+    "Date": "2009-11-30",
+    "Nifty_50": 1437.9,
+    "Cyclicals": 1333.02,
+    "Defensives": 1402.54,
+    "VIX": 31.41
+  },
+  {
+    "Date": "2009-12-31",
+    "Nifty_50": 1615.82,
+    "Cyclicals": 1539.83,
+    "Defensives": 1590.93,
+    "VIX": 14.17
+  },
+  {
+    "Date": "2010-01-31",
+    "Nifty_50": 1503.55,
+    "Cyclicals": 1439.76,
+    "Defensives": 1446.84,
+    "VIX": 37.15
+  },
+  {
+    "Date": "2010-02-28",
+    "Nifty_50": 1557.58,
+    "Cyclicals": 1463.48,
+    "Defensives": 1539.25,
+    "VIX": 16.79
+  },
+  {
+    "Date": "2010-03-31",
+    "Nifty_50": 1731.94,
+    "Cyclicals": 1662.08,
+    "Defensives": 1675.38,
+    "VIX": 10.88
+  },
+  {
+    "Date": "2010-04-30",
+    "Nifty_50": 1974.2,
+    "Cyclicals": 1850.27,
+    "Defensives": 1941.94,
+    "VIX": 10.5
+  },
+  {
+    "Date": "2010-05-31",
+    "Nifty_50": 1610.18,
+    "Cyclicals": 1558.18,
+    "Defensives": 1578.68,
+    "VIX": 40.68
+  },
+  {
+    "Date": "2010-06-30",
+    "Nifty_50": 1894.68,
+    "Cyclicals": 1885.85,
+    "Defensives": 1911.58,
+    "VIX": 10
+  },
+  {
+    "Date": "2010-07-31",
+    "Nifty_50": 1773.95,
+    "Cyclicals": 1774.03,
+    "Defensives": 1785.61,
+    "VIX": 28.56
+  },
+  {
+    "Date": "2010-08-31",
+    "Nifty_50": 1773.05,
+    "Cyclicals": 1709.82,
+    "Defensives": 1746.34,
+    "VIX": 28.78
+  },
+  {
+    "Date": "2010-09-30",
+    "Nifty_50": 1781.48,
+    "Cyclicals": 1649.63,
+    "Defensives": 1742.02,
+    "VIX": 23.01
+  },
+  {
+    "Date": "2010-10-31",
+    "Nifty_50": 1713.25,
+    "Cyclicals": 1662.49,
+    "Defensives": 1702.63,
+    "VIX": 32.02
+  },
+  {
+    "Date": "2010-11-30",
+    "Nifty_50": 1697.56,
+    "Cyclicals": 1664.03,
+    "Defensives": 1692.41,
+    "VIX": 26.63
+  },
+  {
+    "Date": "2010-12-31",
+    "Nifty_50": 1700.31,
+    "Cyclicals": 1617.5,
+    "Defensives": 1674.45,
+    "VIX": 24.89
+  },
+  {
+    "Date": "2011-01-31",
+    "Nifty_50": 1714.63,
+    "Cyclicals": 1670.4,
+    "Defensives": 1699.05,
+    "VIX": 22.59
+  },
+  {
+    "Date": "2011-02-28",
+    "Nifty_50": 1746.09,
+    "Cyclicals": 1685.07,
+    "Defensives": 1723.64,
+    "VIX": 25.89
+  },
+  {
+    "Date": "2011-03-31",
+    "Nifty_50": 1879.63,
+    "Cyclicals": 1806.34,
+    "Defensives": 1833.52,
+    "VIX": 12.57
+  },
+  {
+    "Date": "2011-04-30",
+    "Nifty_50": 1319.25,
+    "Cyclicals": 1241.08,
+    "Defensives": 1319.8,
+    "VIX": 57.47
+  },
+  {
+    "Date": "2011-05-31",
+    "Nifty_50": 1436.67,
+    "Cyclicals": 1397.13,
+    "Defensives": 1391.92,
+    "VIX": 14.82
+  },
+  {
+    "Date": "2011-06-30",
+    "Nifty_50": 1319.94,
+    "Cyclicals": 1260.45,
+    "Defensives": 1306.26,
+    "VIX": 37.49
+  },
+  {
+    "Date": "2011-07-31",
+    "Nifty_50": 1289.24,
+    "Cyclicals": 1281.01,
+    "Defensives": 1275.53,
+    "VIX": 33.01
+  },
+  {
+    "Date": "2011-08-31",
+    "Nifty_50": 1276.4,
+    "Cyclicals": 1229.16,
+    "Defensives": 1282.44,
+    "VIX": 31.62
+  },
+  {
+    "Date": "2011-09-30",
+    "Nifty_50": 1310.27,
+    "Cyclicals": 1240.1,
+    "Defensives": 1303.22,
+    "VIX": 24.61
+  },
+  {
+    "Date": "2011-10-31",
+    "Nifty_50": 1347.89,
+    "Cyclicals": 1314.37,
+    "Defensives": 1348.04,
+    "VIX": 21.12
+  },
+  {
+    "Date": "2011-11-30",
+    "Nifty_50": 1383.06,
+    "Cyclicals": 1313.09,
+    "Defensives": 1351.13,
+    "VIX": 21.55
+  },
+  {
+    "Date": "2011-12-31",
+    "Nifty_50": 1507.96,
+    "Cyclicals": 1411.69,
+    "Defensives": 1503.01,
+    "VIX": 20.71
+  },
+  {
+    "Date": "2012-01-31",
+    "Nifty_50": 1645.58,
+    "Cyclicals": 1580.05,
+    "Defensives": 1599.2,
+    "VIX": 16.73
+  },
+  {
+    "Date": "2012-02-29",
+    "Nifty_50": 1616.78,
+    "Cyclicals": 1564.77,
+    "Defensives": 1583.38,
+    "VIX": 27.8
+  },
+  {
+    "Date": "2012-03-31",
+    "Nifty_50": 1520.16,
+    "Cyclicals": 1460.91,
+    "Defensives": 1514.54,
+    "VIX": 27.32
+  },
+  {
+    "Date": "2012-04-30",
+    "Nifty_50": 1516.05,
+    "Cyclicals": 1409.28,
+    "Defensives": 1474.9,
+    "VIX": 27.28
+  },
+  {
+    "Date": "2012-05-31",
+    "Nifty_50": 1495.94,
+    "Cyclicals": 1443.81,
+    "Defensives": 1500.56,
+    "VIX": 26.96
+  },
+  {
+    "Date": "2012-06-30",
+    "Nifty_50": 1479.27,
+    "Cyclicals": 1444.85,
+    "Defensives": 1523.7,
+    "VIX": 28.33
+  },
+  {
+    "Date": "2012-07-31",
+    "Nifty_50": 1441.98,
+    "Cyclicals": 1352.51,
+    "Defensives": 1413.57,
+    "VIX": 26.63
+  },
+  {
+    "Date": "2012-08-31",
+    "Nifty_50": 1459.23,
+    "Cyclicals": 1417.4,
+    "Defensives": 1472.7,
+    "VIX": 21.0
+  },
+  {
+    "Date": "2012-09-30",
+    "Nifty_50": 1451.48,
+    "Cyclicals": 1365.44,
+    "Defensives": 1475.53,
+    "VIX": 25.56
+  },
+  {
+    "Date": "2012-10-31",
+    "Nifty_50": 1556.03,
+    "Cyclicals": 1447.07,
+    "Defensives": 1495.89,
+    "VIX": 15.51
+  },
+  {
+    "Date": "2012-11-30",
+    "Nifty_50": 1620.04,
+    "Cyclicals": 1518.34,
+    "Defensives": 1603.07,
+    "VIX": 25.89
+  },
+  {
+    "Date": "2012-12-31",
+    "Nifty_50": 1754.29,
+    "Cyclicals": 1668.84,
+    "Defensives": 1727.72,
+    "VIX": 13.09
+  },
+  {
+    "Date": "2013-01-31",
+    "Nifty_50": 1431.62,
+    "Cyclicals": 1360.89,
+    "Defensives": 1409.75,
+    "VIX": 37.75
+  },
+  {
+    "Date": "2013-02-28",
+    "Nifty_50": 1488.68,
+    "Cyclicals": 1440.68,
+    "Defensives": 1455.05,
+    "VIX": 19.43
+  },
+  {
+    "Date": "2013-03-31",
+    "Nifty_50": 1433.13,
+    "Cyclicals": 1391.56,
+    "Defensives": 1404.63,
+    "VIX": 29.3
+  },
+  {
+    "Date": "2013-04-30",
+    "Nifty_50": 1368.87,
+    "Cyclicals": 1324.26,
+    "Defensives": 1310.46,
+    "VIX": 31.64
+  },
+  {
+    "Date": "2013-05-31",
+    "Nifty_50": 1074.49,
+    "Cyclicals": 1029.43,
+    "Defensives": 1051.59,
+    "VIX": 50.39
+  },
+  {
+    "Date": "2013-06-30",
+    "Nifty_50": 1043.48,
+    "Cyclicals": 1011.64,
+    "Defensives": 1014.57,
+    "VIX": 30.06
+  },
+  {
+    "Date": "2013-07-31",
+    "Nifty_50": 1198.48,
+    "Cyclicals": 1182.67,
+    "Defensives": 1174.13,
+    "VIX": 10
+  },
+  {
+    "Date": "2013-08-31",
+    "Nifty_50": 1242.89,
+    "Cyclicals": 1252.75,
+    "Defensives": 1228.57,
+    "VIX": 16.92
+  },
+  {
+    "Date": "2013-09-30",
+    "Nifty_50": 1245.9,
+    "Cyclicals": 1217.57,
+    "Defensives": 1249.11,
+    "VIX": 28.94
+  },
+  {
+    "Date": "2013-10-31",
+    "Nifty_50": 1201.11,
+    "Cyclicals": 1191.47,
+    "Defensives": 1166.97,
+    "VIX": 31.72
+  },
+  {
+    "Date": "2013-11-30",
+    "Nifty_50": 1124.61,
+    "Cyclicals": 1143.18,
+    "Defensives": 1113.1,
+    "VIX": 31.62
+  },
+  {
+    "Date": "2013-12-31",
+    "Nifty_50": 1112.23,
+    "Cyclicals": 1112.6,
+    "Defensives": 1103.02,
+    "VIX": 26.94
+  },
+  {
+    "Date": "2014-01-31",
+    "Nifty_50": 1206.62,
+    "Cyclicals": 1163.33,
+    "Defensives": 1184.18,
+    "VIX": 16.61
+  },
+  {
+    "Date": "2014-02-28",
+    "Nifty_50": 1221.33,
+    "Cyclicals": 1199.61,
+    "Defensives": 1201.16,
+    "VIX": 25.31
+  },
+  {
+    "Date": "2014-03-31",
+    "Nifty_50": 1159.04,
+    "Cyclicals": 1096.11,
+    "Defensives": 1156.9,
+    "VIX": 31.54
+  },
+  {
+    "Date": "2014-04-30",
+    "Nifty_50": 1120.76,
+    "Cyclicals": 1073.3,
+    "Defensives": 1119.88,
+    "VIX": 28.81
+  },
+  {
+    "Date": "2014-05-31",
+    "Nifty_50": 1158.43,
+    "Cyclicals": 1133.19,
+    "Defensives": 1142.35,
+    "VIX": 24.03
+  },
+  {
+    "Date": "2014-06-30",
+    "Nifty_50": 1289.9,
+    "Cyclicals": 1237.77,
+    "Defensives": 1277.18,
+    "VIX": 13.19
+  },
+  {
+    "Date": "2014-07-31",
+    "Nifty_50": 1339.86,
+    "Cyclicals": 1278.78,
+    "Defensives": 1300.08,
+    "VIX": 23.39
+  },
+  {
+    "Date": "2014-08-31",
+    "Nifty_50": 1321.36,
+    "Cyclicals": 1229.27,
+    "Defensives": 1316.51,
+    "VIX": 27.09
+  },
+  {
+    "Date": "2014-09-30",
+    "Nifty_50": 1314.19,
+    "Cyclicals": 1259.86,
+    "Defensives": 1283.44,
+    "VIX": 22.98
+  },
+  {
+    "Date": "2014-10-31",
+    "Nifty_50": 1264.82,
+    "Cyclicals": 1186.12,
+    "Defensives": 1259.54,
+    "VIX": 29.66
+  },
+  {
+    "Date": "2014-11-30",
+    "Nifty_50": 1350.32,
+    "Cyclicals": 1270.85,
+    "Defensives": 1319.97,
+    "VIX": 23.24
+  },
+  {
+    "Date": "2014-12-31",
+    "Nifty_50": 1506.05,
+    "Cyclicals": 1468.89,
+    "Defensives": 1487.18,
+    "VIX": 16.06
+  },
+  {
+    "Date": "2015-01-31",
+    "Nifty_50": 1619.86,
+    "Cyclicals": 1574.08,
+    "Defensives": 1583.9,
+    "VIX": 16.87
+  },
+  {
+    "Date": "2015-02-28",
+    "Nifty_50": 1757.99,
+    "Cyclicals": 1680.31,
+    "Defensives": 1728.63,
+    "VIX": 22.96
+  },
+  {
+    "Date": "2015-03-31",
+    "Nifty_50": 1903.44,
+    "Cyclicals": 1857.15,
+    "Defensives": 1909.04,
+    "VIX": 18.37
+  },
+  {
+    "Date": "2015-04-30",
+    "Nifty_50": 1948.54,
+    "Cyclicals": 1796.0,
+    "Defensives": 1942.9,
+    "VIX": 21.77
+  },
+  {
+    "Date": "2015-05-31",
+    "Nifty_50": 1920.37,
+    "Cyclicals": 1836.77,
+    "Defensives": 1925.29,
+    "VIX": 27.88
+  },
+  {
+    "Date": "2015-06-30",
+    "Nifty_50": 2085.3,
+    "Cyclicals": 1910.73,
+    "Defensives": 2071.24,
+    "VIX": 13.4
+  },
+  {
+    "Date": "2015-07-31",
+    "Nifty_50": 2025.7,
+    "Cyclicals": 1931.64,
+    "Defensives": 1992.7,
+    "VIX": 27.49
+  },
+  {
+    "Date": "2015-08-31",
+    "Nifty_50": 1950.21,
+    "Cyclicals": 1890.32,
+    "Defensives": 1906.19,
+    "VIX": 31.75
+  },
+  {
+    "Date": "2015-09-30",
+    "Nifty_50": 2077.12,
+    "Cyclicals": 1997.4,
+    "Defensives": 2030.25,
+    "VIX": 16.37
+  },
+  {
+    "Date": "2015-10-31",
+    "Nifty_50": 1862.68,
+    "Cyclicals": 1789.7,
+    "Defensives": 1847.39,
+    "VIX": 35.92
+  },
+  {
+    "Date": "2015-11-30",
+    "Nifty_50": 1849.85,
+    "Cyclicals": 1799.76,
+    "Defensives": 1866.37,
+    "VIX": 21.52
+  },
+  {
+    "Date": "2015-12-31",
+    "Nifty_50": 1685.99,
+    "Cyclicals": 1632.11,
+    "Defensives": 1636.05,
+    "VIX": 32.89
+  },
+  {
+    "Date": "2016-01-31",
+    "Nifty_50": 1156.36,
+    "Cyclicals": 1098.95,
+    "Defensives": 1099.76,
+    "VIX": 57.57
+  },
+  {
+    "Date": "2016-02-29",
+    "Nifty_50": 1197.12,
+    "Cyclicals": 1114.11,
+    "Defensives": 1156.05,
+    "VIX": 19.36
+  },
+  {
+    "Date": "2016-03-31",
+    "Nifty_50": 1242.0,
+    "Cyclicals": 1164.14,
+    "Defensives": 1243.03,
+    "VIX": 21.17
+  },
+  {
+    "Date": "2016-04-30",
+    "Nifty_50": 1296.49,
+    "Cyclicals": 1221.42,
+    "Defensives": 1310.19,
+    "VIX": 24.88
+  },
+  {
+    "Date": "2016-05-31",
+    "Nifty_50": 1511.37,
+    "Cyclicals": 1414.87,
+    "Defensives": 1481.62,
+    "VIX": 10
+  },
+  {
+    "Date": "2016-06-30",
+    "Nifty_50": 1656.51,
+    "Cyclicals": 1594.17,
+    "Defensives": 1636.16,
+    "VIX": 16.79
+  },
+  {
+    "Date": "2016-07-31",
+    "Nifty_50": 1547.27,
+    "Cyclicals": 1471.04,
+    "Defensives": 1524.45,
+    "VIX": 35.62
+  },
+  {
+    "Date": "2016-08-31",
+    "Nifty_50": 1725.04,
+    "Cyclicals": 1658.7,
+    "Defensives": 1697.69,
+    "VIX": 10.68
+  },
+  {
+    "Date": "2016-09-30",
+    "Nifty_50": 1831.05,
+    "Cyclicals": 1767.85,
+    "Defensives": 1800.25,
+    "VIX": 17.29
+  },
+  {
+    "Date": "2016-10-31",
+    "Nifty_50": 1428.67,
+    "Cyclicals": 1371.82,
+    "Defensives": 1441.71,
+    "VIX": 49.5
+  },
+  {
+    "Date": "2016-11-30",
+    "Nifty_50": 1371.6,
+    "Cyclicals": 1275.65,
+    "Defensives": 1345.06,
+    "VIX": 23.0
+  },
+  {
+    "Date": "2016-12-31",
+    "Nifty_50": 1240.04,
+    "Cyclicals": 1212.9,
+    "Defensives": 1226.52,
+    "VIX": 33.53
+  },
+  {
+    "Date": "2017-01-31",
+    "Nifty_50": 1148.54,
+    "Cyclicals": 1117.14,
+    "Defensives": 1132.96,
+    "VIX": 33.25
+  },
+  {
+    "Date": "2017-02-28",
+    "Nifty_50": 1239.38,
+    "Cyclicals": 1203.26,
+    "Defensives": 1249.84,
+    "VIX": 14.47
+  },
+  {
+    "Date": "2017-03-31",
+    "Nifty_50": 1384.18,
+    "Cyclicals": 1316.03,
+    "Defensives": 1344.99,
+    "VIX": 12.03
+  },
+  {
+    "Date": "2017-04-30",
+    "Nifty_50": 1151.88,
+    "Cyclicals": 1064.9,
+    "Defensives": 1141.52,
+    "VIX": 38.77
+  },
+  {
+    "Date": "2017-05-31",
+    "Nifty_50": 1029.8,
+    "Cyclicals": 996.56,
+    "Defensives": 989.79,
+    "VIX": 34.15
+  },
+  {
+    "Date": "2017-06-30",
+    "Nifty_50": 911.39,
+    "Cyclicals": 852.75,
+    "Defensives": 883.96,
+    "VIX": 37.85
+  },
+  {
+    "Date": "2017-07-31",
+    "Nifty_50": 940.41,
+    "Cyclicals": 906.63,
+    "Defensives": 954.52,
+    "VIX": 15.77
+  },
+  {
+    "Date": "2017-08-31",
+    "Nifty_50": 988.99,
+    "Cyclicals": 957.96,
+    "Defensives": 962.32,
+    "VIX": 21.49
+  },
+  {
+    "Date": "2017-09-30",
+    "Nifty_50": 1003.27,
+    "Cyclicals": 944.02,
+    "Defensives": 1015.7,
+    "VIX": 22.32
+  },
+  {
+    "Date": "2017-10-31",
+    "Nifty_50": 1133.29,
+    "Cyclicals": 1063.23,
+    "Defensives": 1123.45,
+    "VIX": 10.63
+  },
+  {
+    "Date": "2017-11-30",
+    "Nifty_50": 1284.18,
+    "Cyclicals": 1221.19,
+    "Defensives": 1250.33,
+    "VIX": 15.86
+  },
+  {
+    "Date": "2017-12-31",
+    "Nifty_50": 1384.49,
+    "Cyclicals": 1400.82,
+    "Defensives": 1359.5,
+    "VIX": 17.69
+  },
+  {
+    "Date": "2018-01-31",
+    "Nifty_50": 1320.55,
+    "Cyclicals": 1259.73,
+    "Defensives": 1272.03,
+    "VIX": 31.46
+  },
+  {
+    "Date": "2018-02-28",
+    "Nifty_50": 1332.69,
+    "Cyclicals": 1232.73,
+    "Defensives": 1309.87,
+    "VIX": 24.33
+  },
+  {
+    "Date": "2018-03-31",
+    "Nifty_50": 1326.98,
+    "Cyclicals": 1257.38,
+    "Defensives": 1325.72,
+    "VIX": 29.31
+  },
+  {
+    "Date": "2018-04-30",
+    "Nifty_50": 1416.74,
+    "Cyclicals": 1393.67,
+    "Defensives": 1398.47,
+    "VIX": 18.74
+  },
+  {
+    "Date": "2018-05-31",
+    "Nifty_50": 1238.71,
+    "Cyclicals": 1201.81,
+    "Defensives": 1230.89,
+    "VIX": 36.54
+  },
+  {
+    "Date": "2018-06-30",
+    "Nifty_50": 1193.04,
+    "Cyclicals": 1165.42,
+    "Defensives": 1187.19,
+    "VIX": 27.43
+  },
+  {
+    "Date": "2018-07-31",
+    "Nifty_50": 1138.25,
+    "Cyclicals": 1070.59,
+    "Defensives": 1148.87,
+    "VIX": 30.05
+  },
+  {
+    "Date": "2018-08-31",
+    "Nifty_50": 1011.29,
+    "Cyclicals": 961.47,
+    "Defensives": 1036.82,
+    "VIX": 36.88
+  },
+  {
+    "Date": "2018-09-30",
+    "Nifty_50": 987.64,
+    "Cyclicals": 955.26,
+    "Defensives": 990.4,
+    "VIX": 30.15
+  },
+  {
+    "Date": "2018-10-31",
+    "Nifty_50": 725.52,
+    "Cyclicals": 681.06,
+    "Defensives": 717.95,
+    "VIX": 53.29
+  },
+  {
+    "Date": "2018-11-30",
+    "Nifty_50": 649.27,
+    "Cyclicals": 657.55,
+    "Defensives": 636.92,
+    "VIX": 33.11
+  },
+  {
+    "Date": "2018-12-31",
+    "Nifty_50": 552.56,
+    "Cyclicals": 533.15,
+    "Defensives": 544.55,
+    "VIX": 38.79
+  },
+  {
+    "Date": "2019-01-31",
+    "Nifty_50": 573.63,
+    "Cyclicals": 558.22,
+    "Defensives": 573.73,
+    "VIX": 23.59
+  },
+  {
+    "Date": "2019-02-28",
+    "Nifty_50": 496.35,
+    "Cyclicals": 471.87,
+    "Defensives": 501.58,
+    "VIX": 43.75
+  },
+  {
+    "Date": "2019-03-31",
+    "Nifty_50": 430.13,
+    "Cyclicals": 419.44,
+    "Defensives": 427.94,
+    "VIX": 36.64
+  },
+  {
+    "Date": "2019-04-30",
+    "Nifty_50": 409.47,
+    "Cyclicals": 405.5,
+    "Defensives": 396.5,
+    "VIX": 29.88
+  },
+  {
+    "Date": "2019-05-31",
+    "Nifty_50": 473.74,
+    "Cyclicals": 457.46,
+    "Defensives": 465.3,
+    "VIX": 11.71
+  },
+  {
+    "Date": "2019-06-30",
+    "Nifty_50": 492.37,
+    "Cyclicals": 479.9,
+    "Defensives": 474.16,
+    "VIX": 19.2
+  },
+  {
+    "Date": "2019-07-31",
+    "Nifty_50": 497.6,
+    "Cyclicals": 484.05,
+    "Defensives": 493.0,
+    "VIX": 22.4
+  },
+  {
+    "Date": "2019-08-31",
+    "Nifty_50": 492.68,
+    "Cyclicals": 477.86,
+    "Defensives": 482.97,
+    "VIX": 22.13
+  },
+  {
+    "Date": "2019-09-30",
+    "Nifty_50": 501.04,
+    "Cyclicals": 479.99,
+    "Defensives": 491.87,
+    "VIX": 24.89
+  },
+  {
+    "Date": "2019-10-31",
+    "Nifty_50": 508.27,
+    "Cyclicals": 472.05,
+    "Defensives": 496.84,
+    "VIX": 27.46
+  },
+  {
+    "Date": "2019-11-30",
+    "Nifty_50": 492.8,
+    "Cyclicals": 479.56,
+    "Defensives": 488.06,
+    "VIX": 28.95
+  },
+  {
+    "Date": "2019-12-31",
+    "Nifty_50": 523.36,
+    "Cyclicals": 499.93,
+    "Defensives": 525.1,
+    "VIX": 17.63
+  },
+  {
+    "Date": "2020-01-31",
+    "Nifty_50": 519.26,
+    "Cyclicals": 488.07,
+    "Defensives": 522.79,
+    "VIX": 26.04
+  },
+  {
+    "Date": "2020-02-29",
+    "Nifty_50": 523.19,
+    "Cyclicals": 489.55,
+    "Defensives": 516.78,
+    "VIX": 20.31
+  },
+  {
+    "Date": "2020-03-31",
+    "Nifty_50": 604.03,
+    "Cyclicals": 576.33,
+    "Defensives": 590.78,
+    "VIX": 10
+  },
+  {
+    "Date": "2020-04-30",
+    "Nifty_50": 465.29,
+    "Cyclicals": 444.88,
+    "Defensives": 460.52,
+    "VIX": 48.08
+  },
+  {
+    "Date": "2020-05-31",
+    "Nifty_50": 510.68,
+    "Cyclicals": 518.0,
+    "Defensives": 513.49,
+    "VIX": 18.08
+  },
+  {
+    "Date": "2020-06-30",
+    "Nifty_50": 562.08,
+    "Cyclicals": 566.88,
+    "Defensives": 553.67,
+    "VIX": 15.04
+  },
+  {
+    "Date": "2020-07-31",
+    "Nifty_50": 369.9,
+    "Cyclicals": 350.41,
+    "Defensives": 371.8,
+    "VIX": 56.53
+  },
+  {
+    "Date": "2020-08-31",
+    "Nifty_50": 341.87,
+    "Cyclicals": 327.67,
+    "Defensives": 339.97,
+    "VIX": 34.76
+  },
+  {
+    "Date": "2020-09-30",
+    "Nifty_50": 355.78,
+    "Cyclicals": 345.03,
+    "Defensives": 357.67,
+    "VIX": 25.69
+  },
+  {
+    "Date": "2020-10-31",
+    "Nifty_50": 374.48,
+    "Cyclicals": 353.35,
+    "Defensives": 374.82,
+    "VIX": 23.71
+  },
+  {
+    "Date": "2020-11-30",
+    "Nifty_50": 367.36,
+    "Cyclicals": 366.12,
+    "Defensives": 359.37,
+    "VIX": 22.18
+  },
+  {
+    "Date": "2020-12-31",
+    "Nifty_50": 365.51,
+    "Cyclicals": 361.25,
+    "Defensives": 369.35,
+    "VIX": 20.48
+  },
+  {
+    "Date": "2021-01-31",
+    "Nifty_50": 371.35,
+    "Cyclicals": 361.35,
+    "Defensives": 357.08,
+    "VIX": 12.93
+  },
+  {
+    "Date": "2021-02-28",
+    "Nifty_50": 379.77,
+    "Cyclicals": 355.75,
+    "Defensives": 366.37,
+    "VIX": 10.79
+  },
+  {
+    "Date": "2021-03-31",
+    "Nifty_50": 395.26,
+    "Cyclicals": 386.38,
+    "Defensives": 378.76,
+    "VIX": 22.9
+  },
+  {
+    "Date": "2021-04-30",
+    "Nifty_50": 412.77,
+    "Cyclicals": 404.57,
+    "Defensives": 404.6,
+    "VIX": 21.96
+  },
+  {
+    "Date": "2021-05-31",
+    "Nifty_50": 395.3,
+    "Cyclicals": 363.92,
+    "Defensives": 396.6,
+    "VIX": 31.74
+  },
+  {
+    "Date": "2021-06-30",
+    "Nifty_50": 396.13,
+    "Cyclicals": 380.75,
+    "Defensives": 400.83,
+    "VIX": 29.73
+  },
+  {
+    "Date": "2021-07-31",
+    "Nifty_50": 392.44,
+    "Cyclicals": 386.68,
+    "Defensives": 379.83,
+    "VIX": 24.79
+  },
+  {
+    "Date": "2021-08-31",
+    "Nifty_50": 426.33,
+    "Cyclicals": 405.7,
+    "Defensives": 424.09,
+    "VIX": 15.44
+  },
+  {
+    "Date": "2021-09-30",
+    "Nifty_50": 440.63,
+    "Cyclicals": 418.92,
+    "Defensives": 442.7,
+    "VIX": 22.09
+  },
+  {
+    "Date": "2021-10-31",
+    "Nifty_50": 467.16,
+    "Cyclicals": 450.93,
+    "Defensives": 450.26,
+    "VIX": 18.79
+  },
+  {
+    "Date": "2021-11-30",
+    "Nifty_50": 452.81,
+    "Cyclicals": 440.75,
+    "Defensives": 431.83,
+    "VIX": 32.74
+  },
+  {
+    "Date": "2021-12-31",
+    "Nifty_50": 513.63,
+    "Cyclicals": 505.37,
+    "Defensives": 507.66,
+    "VIX": 13.39
+  },
+  {
+    "Date": "2022-01-31",
+    "Nifty_50": 539.16,
+    "Cyclicals": 524.37,
+    "Defensives": 534.09,
+    "VIX": 24.01
+  },
+  {
+    "Date": "2022-02-28",
+    "Nifty_50": 570.32,
+    "Cyclicals": 542.05,
+    "Defensives": 567.95,
+    "VIX": 21.58
+  },
+  {
+    "Date": "2022-03-31",
+    "Nifty_50": 560.55,
+    "Cyclicals": 545.25,
+    "Defensives": 558.08,
+    "VIX": 27.62
+  },
+  {
+    "Date": "2022-04-30",
+    "Nifty_50": 552.46,
+    "Cyclicals": 535.19,
+    "Defensives": 538.1,
+    "VIX": 31.17
+  },
+  {
+    "Date": "2022-05-31",
+    "Nifty_50": 629.84,
+    "Cyclicals": 608.21,
+    "Defensives": 617.73,
+    "VIX": 10.2
+  },
+  {
+    "Date": "2022-06-30",
+    "Nifty_50": 645.26,
+    "Cyclicals": 596.13,
+    "Defensives": 626.61,
+    "VIX": 24.59
+  },
+  {
+    "Date": "2022-07-31",
+    "Nifty_50": 713.63,
+    "Cyclicals": 690.44,
+    "Defensives": 693.27,
+    "VIX": 12.6
+  },
+  {
+    "Date": "2022-08-31",
+    "Nifty_50": 754.5,
+    "Cyclicals": 715.08,
+    "Defensives": 742.11,
+    "VIX": 15.59
+  },
+  {
+    "Date": "2022-09-30",
+    "Nifty_50": 717.17,
+    "Cyclicals": 706.19,
+    "Defensives": 717.73,
+    "VIX": 32.16
+  },
+  {
+    "Date": "2022-10-31",
+    "Nifty_50": 831.69,
+    "Cyclicals": 797.65,
+    "Defensives": 805.5,
+    "VIX": 10
+  },
+  {
+    "Date": "2022-11-30",
+    "Nifty_50": 748.96,
+    "Cyclicals": 705.01,
+    "Defensives": 752.46,
+    "VIX": 36.63
+  },
+  {
+    "Date": "2022-12-31",
+    "Nifty_50": 749.93,
+    "Cyclicals": 721.64,
+    "Defensives": 742.12,
+    "VIX": 13.88
+  },
+  {
+    "Date": "2023-01-31",
+    "Nifty_50": 721.14,
+    "Cyclicals": 685.75,
+    "Defensives": 715.24,
+    "VIX": 34.76
+  },
+  {
+    "Date": "2023-02-28",
+    "Nifty_50": 786.94,
+    "Cyclicals": 768.74,
+    "Defensives": 782.54,
+    "VIX": 16.28
+  },
+  {
+    "Date": "2023-03-31",
+    "Nifty_50": 729.67,
+    "Cyclicals": 687.23,
+    "Defensives": 735.36,
+    "VIX": 29.72
+  },
+  {
+    "Date": "2023-04-30",
+    "Nifty_50": 769.95,
+    "Cyclicals": 738.29,
+    "Defensives": 765.17,
+    "VIX": 23.67
+  },
+  {
+    "Date": "2023-05-31",
+    "Nifty_50": 727.18,
+    "Cyclicals": 694.02,
+    "Defensives": 733.99,
+    "VIX": 34.22
+  },
+  {
+    "Date": "2023-06-30",
+    "Nifty_50": 770.45,
+    "Cyclicals": 757.18,
+    "Defensives": 756.48,
+    "VIX": 15.35
+  },
+  {
+    "Date": "2023-07-31",
+    "Nifty_50": 782.76,
+    "Cyclicals": 768.67,
+    "Defensives": 802.64,
+    "VIX": 24.51
+  },
+  {
+    "Date": "2023-08-31",
+    "Nifty_50": 787.51,
+    "Cyclicals": 735.09,
+    "Defensives": 775.82,
+    "VIX": 24.9
+  },
+  {
+    "Date": "2023-09-30",
+    "Nifty_50": 847.33,
+    "Cyclicals": 780.52,
+    "Defensives": 839.86,
+    "VIX": 18.15
+  },
+  {
+    "Date": "2023-10-31",
+    "Nifty_50": 796.34,
+    "Cyclicals": 769.48,
+    "Defensives": 775.61,
+    "VIX": 27.19
+  },
+  {
+    "Date": "2023-11-30",
+    "Nifty_50": 726.99,
+    "Cyclicals": 671.84,
+    "Defensives": 713.73,
+    "VIX": 33.82
+  },
+  {
+    "Date": "2023-12-31",
+    "Nifty_50": 731.92,
+    "Cyclicals": 708.2,
+    "Defensives": 720.45,
+    "VIX": 14.71
+  },
+  {
+    "Date": "2024-01-31",
+    "Nifty_50": 843.25,
+    "Cyclicals": 836.13,
+    "Defensives": 820.73,
+    "VIX": 10
+  },
+  {
+    "Date": "2024-02-29",
+    "Nifty_50": 677.82,
+    "Cyclicals": 642.86,
+    "Defensives": 683.62,
+    "VIX": 42.06
+  },
+  {
+    "Date": "2024-03-31",
+    "Nifty_50": 698.87,
+    "Cyclicals": 656.73,
+    "Defensives": 678.87,
+    "VIX": 22.86
+  },
+  {
+    "Date": "2024-04-30",
+    "Nifty_50": 726.37,
+    "Cyclicals": 704.34,
+    "Defensives": 708.76,
+    "VIX": 19.48
+  },
+  {
+    "Date": "2024-05-31",
+    "Nifty_50": 703.64,
+    "Cyclicals": 670.64,
+    "Defensives": 697.74,
+    "VIX": 31.54
+  },
+  {
+    "Date": "2024-06-30",
+    "Nifty_50": 717.35,
+    "Cyclicals": 708.41,
+    "Defensives": 717.11,
+    "VIX": 22.4
+  },
+  {
+    "Date": "2024-07-31",
+    "Nifty_50": 682.05,
+    "Cyclicals": 651.12,
+    "Defensives": 656.25,
+    "VIX": 31.11
+  },
+  {
+    "Date": "2024-08-31",
+    "Nifty_50": 692.61,
+    "Cyclicals": 674.92,
+    "Defensives": 681.49,
+    "VIX": 22.2
+  },
+  {
+    "Date": "2024-09-30",
+    "Nifty_50": 691.66,
+    "Cyclicals": 667.29,
+    "Defensives": 692.15,
+    "VIX": 22.23
+  },
+  {
+    "Date": "2024-10-31",
+    "Nifty_50": 715.13,
+    "Cyclicals": 698.59,
+    "Defensives": 734.54,
+    "VIX": 20.88
+  },
+  {
+    "Date": "2024-11-30",
+    "Nifty_50": 823.59,
+    "Cyclicals": 806.81,
+    "Defensives": 829.52,
+    "VIX": 10
+  },
+  {
+    "Date": "2024-12-31",
+    "Nifty_50": 832.5,
+    "Cyclicals": 770.46,
+    "Defensives": 825.51,
+    "VIX": 10
+  },
+  {
+    "Date": "2025-01-31",
+    "Nifty_50": 872.6,
+    "Cyclicals": 820.7,
+    "Defensives": 867.0,
+    "VIX": 20.29
+  },
+  {
+    "Date": "2025-02-28",
+    "Nifty_50": 849.16,
+    "Cyclicals": 830.29,
+    "Defensives": 827.62,
+    "VIX": 28.67
+  },
+  {
+    "Date": "2025-03-31",
+    "Nifty_50": 949.68,
+    "Cyclicals": 898.12,
+    "Defensives": 940.35,
+    "VIX": 15.95
+  },
+  {
+    "Date": "2025-04-30",
+    "Nifty_50": 916.54,
+    "Cyclicals": 887.72,
+    "Defensives": 899.58,
+    "VIX": 27.19
+  },
+  {
+    "Date": "2025-05-31",
+    "Nifty_50": 938.39,
+    "Cyclicals": 929.04,
+    "Defensives": 931.98,
+    "VIX": 18.41
+  },
+  {
+    "Date": "2025-06-30",
+    "Nifty_50": 972.56,
+    "Cyclicals": 950.18,
+    "Defensives": 965.23,
+    "VIX": 21.43
+  },
+  {
+    "Date": "2025-07-31",
+    "Nifty_50": 1090.97,
+    "Cyclicals": 1034.39,
+    "Defensives": 1103.71,
+    "VIX": 10
+  },
+  {
+    "Date": "2025-08-31",
+    "Nifty_50": 1180.97,
+    "Cyclicals": 1134.18,
+    "Defensives": 1159.69,
+    "VIX": 20.07
+  },
+  {
+    "Date": "2025-09-30",
+    "Nifty_50": 1078.05,
+    "Cyclicals": 999.91,
+    "Defensives": 1071.47,
+    "VIX": 35.04
+  },
+  {
+    "Date": "2025-10-31",
+    "Nifty_50": 1012.76,
+    "Cyclicals": 962.3,
+    "Defensives": 989.62,
+    "VIX": 30.07
+  },
+  {
+    "Date": "2025-11-30",
+    "Nifty_50": 705.88,
+    "Cyclicals": 658.97,
+    "Defensives": 678.35,
+    "VIX": 58.57
+  },
+  {
+    "Date": "2025-12-31",
+    "Nifty_50": 722.57,
+    "Cyclicals": 706.58,
+    "Defensives": 721.17,
+    "VIX": 11.88
+  },
+  {
+    "Date": "2026-01-31",
+    "Nifty_50": 764.59,
+    "Cyclicals": 747.81,
+    "Defensives": 747.77,
+    "VIX": 18.13
+  },
+  {
+    "Date": "2026-02-28",
+    "Nifty_50": 738.8,
+    "Cyclicals": 702.31,
+    "Defensives": 728.4,
+    "VIX": 30.96
+  }
+]

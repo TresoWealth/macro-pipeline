@@ -1,0 +1,23 @@
+[
+  {
+    "Date": "2026-03-01",
+    "PMI_Manufacturing": 56.9,
+    "PMI_Services": 52.1,
+    "PMI_Composite": 55.0,
+    "Source": "S&P_Global_via_Investing.com"
+  },
+  {
+    "Date": "2026-04-01",
+    "PMI_Manufacturing": 53.9,
+    "PMI_Services": 52.2,
+    "PMI_Composite": 53.2,
+    "Source": "S&P_Global_via_Investing.com"
+  },
+  {
+    "Date": "2026-05-01",
+    "PMI_Manufacturing": 54.7,
+    "PMI_Services": null,
+    "PMI_Composite": 52.8,
+    "Source": "S&P_Global_via_Investing.com"
+  }
+]

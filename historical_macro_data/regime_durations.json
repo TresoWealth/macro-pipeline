@@ -1,0 +1,30 @@
+{
+  "Growth-Disinflation": {
+    "avg_duration_months": 1.2,
+    "min_duration_months": 1.0,
+    "max_duration_months": 1.9,
+    "num_periods": 5,
+    "std_dev_months": 0.4
+  },
+  "Growth-Inflation": {
+    "avg_duration_months": 3.5,
+    "min_duration_months": 0.9,
+    "max_duration_months": 15.0,
+    "num_periods": 37,
+    "std_dev_months": 3.2
+  },
+  "Stagnation-Disinflation": {
+    "avg_duration_months": 2.0,
+    "min_duration_months": 2.0,
+    "max_duration_months": 2.0,
+    "num_periods": 1,
+    "std_dev_months": 0
+  },
+  "Stagflation": {
+    "avg_duration_months": 2.7,
+    "min_duration_months": 0.9,
+    "max_duration_months": 24.0,
+    "num_periods": 38,
+    "std_dev_months": 3.9
+  }
+}

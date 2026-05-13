@@ -1,0 +1,11 @@
+{
+  "regime": "Growth-Disinflation",
+  "confidence": 0.6555,
+  "probabilities": {
+    "Growth-Disinflation": 0.6555,
+    "Growth-Inflation": 0.0219,
+    "Stagnation-Disinflation": 0.3016,
+    "Stagflation": 0.021
+  },
+  "timestamp": "2026-05-12T13:44:44.324246"
+}
